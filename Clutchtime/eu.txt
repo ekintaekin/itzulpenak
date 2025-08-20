@@ -55,19 +55,19 @@ TRANSLATED:Gehitu [card:hookShot] zure eskura.
 CONTEXT:
 
 ENGLISH:Add a random {Assist:Assist} to your hand.
-TRANSLATED:Gehitu ausazko {Assist:Assist} zure eskura.
+TRANSLATED:Gehitu ausazko {Assist:asistentzia} zure eskura.
 CONTEXT:
 
 ENGLISH:Add a random {Hindrance:Hindrance} to your hand.
-TRANSLATED:Gehitu ausazko {Hindrance:Hindrance} bat zure eskura
+TRANSLATED:Gehitu ausazko {Hindrance:oztopo} bat zure eskura
 CONTEXT:
 
 ENGLISH:Add to opponent draw pile and increase the cost by #.
-TRANSLATED:Gehitu aurkariaren karta pilora eta igo kostua # puntutan.
+TRANSLATED:Gehitu aurkariaren karta pilora eta igo kostua # puntu.
 CONTEXT:
 
 ENGLISH:Additional Music
-TRANSLATED:Musika gehiarria
+TRANSLATED:Musika osagarria
 CONTEXT:
 
 ENGLISH:Africa
@@ -83,7 +83,7 @@ TRANSLATED:Beti
 CONTEXT:
 
 ENGLISH:Analytics
-TRANSLATED:Analitika
+TRANSLATED:Estatistikak
 CONTEXT:
 
 ENGLISH:Animation speed
@@ -99,7 +99,7 @@ TRANSLATED:Asia
 CONTEXT:
 
 ENGLISH:Assistant Coach
-TRANSLATED:Bigarren entrenatzailea
+TRANSLATED:Laguntzailea
 CONTEXT:
 
 ENGLISH:Auto play speed
@@ -115,11 +115,11 @@ TRANSLATED:Arakatu modak Steamen
 CONTEXT:
 
 ENGLISH:By submitting your mod, you agree to:\n- allow Bigosaur to show it in any materials promoting the game\n- allow players to post videos or screenshots of your mod online (ex. on YouTube)\n- the Steam Workshop terms of service (button on top of this screen)
-TRANSLATED:zure moda bidaltzen, honekiko adostasuna adierazten duzu:\n- Bigosaurri jokoaren promoziorako edozein materialetan erakusten uztea\n- Jokalariei zure modaren pantaila-irudiak edo bideoak online erakustea (adib. Youtuben)\n- Steam Workshopen zerbitzuaren baldintzak (pantaila honen goikaldean dago botoia)
+TRANSLATED:Zure moda bidaltzen, honekiko adostasuna adierazten duzu:\n- Bigosaurri jokoaren promoziorako edozein materialetan erakusten uztea\n- Jokalariei zure modaren pantaila-irudiak edo bideoak online erakustea (adib. Youtuben)\n- Steam Workshopen zerbitzuaren baldintzak (pantaila honen goikaldean dago botoia)
 CONTEXT:
 
 ENGLISH:Cannot find card.\nCorrupted save file.
-TRANSLATED:Ezinezkoa izan da txartela aurkitzea.\nArtxibo usteldua.
+TRANSLATED:Ezinezkoa izan da txartela aurkitzea.\nGordetze fitxategi kaltetua.
 CONTEXT:
 
 ENGLISH:Cannot load card.\nCorrupted save file.
@@ -135,7 +135,7 @@ TRANSLATED:Ezin izan da kargatu.\nGordetze fitxategi kaltetua.
 CONTEXT:
 
 ENGLISH:Cannot load.\nIncompatible save file from an old version.
-TRANSLATED:Ezin izan da kargatu.\nBertsio zahar bateko gordetze fitxategi baeteraezina.
+TRANSLATED:Ezin izan da kargatu.\nBertsio zahar bateko gordetze fitxategi bateraezina.
 CONTEXT:
 
 ENGLISH:Cannot load.\nSave file from a newer version.\nPlease upgrade.
@@ -231,7 +231,7 @@ TRANSLATED:Sortu zure mod-ak
 CONTEXT:
 
 ENGLISH:DON'T turn the debugger on when using mods from unknown people !!!\n\nDebugger is disabled by default because Lua Sandboxing must be turned off for it to work.\n\nSandboxing prevents malicious mod authors.\n\nBefore you enable the Debugger, make sure you check the code of all the Steam mods you enabled, as they can run code that reads any file off your disk!\n\nActivating this option will restart the game
-TRANSLATED:EZ piztu araztailea ezagutzen ez duzun jendeak egindako modak erabiltzean!!!\nAraztailea jatorriz itzalia dator funtzionatzeko Lua sandboxing itzali behar delako.\nSandboxingak mod egile maltzurrez libratzeko balio du.\nAraztailea gaitu aurretik ziurtatu steameko mod guztien kodea errepasatzea, zure disko gogorreko edozein fitxategi ikus baitezakete!\nAukera hau gaitzeak jokoa berrabiaraziko du.
+TRANSLATED:EZ piztu araztailea ezagutzen ez duzun jendeak egindako modak erabiltzean!!!\n\nAraztailea jatorriz itzalia dator funtzionatzeko Lua sandboxing itzali behar delako.\n\nSandboxingak mod egile maltzurrez libratzeko balio du.\n\nAraztailea gaitu aurretik ziurtatu steameko mod guztien kodea errepasatzea, zure disko gogorreko edozein fitxategi ikus baitezakete!\n\nAukera hau gaitzeak jokoa berrabiaraziko du.
 CONTEXT:
 
 ENGLISH:Delete saves
@@ -259,11 +259,11 @@ TRANSLATED:Bikoiztu zure {stamina:Energia}[gfx:NRG]
 CONTEXT:
 
 ENGLISH:Draw as many cards as the cost of the first card you play each turn.
-TRANSLATED:Hartu txanda bakoitzean jokatzen duzun lehhen kartaren kostua adina karta.
+TRANSLATED:Hartu txanda bakoitzean jokatzen duzun lehen kartaren kostua adina karta.
 CONTEXT:
 
 ENGLISH:ERROR: Cannot create steam.txt file. See game log for details.
-TRANSLATED:Errorea: ezin izan da steam.txt fitxategia sortu. begireatu joko erregistroa detaile gehiagorako.
+TRANSLATED:Errorea: ezin izan da steam.txt fitxategia sortu. begiratu joko erregistroa xehetasun gehiagorako.
 CONTEXT:
 
 ENGLISH:ERROR: Cannot load file
@@ -271,7 +271,7 @@ TRANSLATED:ERROREA: Ezin izan da fitxategia kargatu
 CONTEXT:
 
 ENGLISH:ERROR: Cannot load mod data
-TRANSLATED:ERROREA: Ezin izan dira modaren datual kargatu
+TRANSLATED:ERROREA: Ezin izan dira modaren datuak kargatu
 CONTEXT:
 
 ENGLISH:ERROR: Failed loading mods
@@ -291,7 +291,7 @@ TRANSLATED:ERROREA: preview.png irudia falta da. Sortu bat mesedez.
 CONTEXT:
 
 ENGLISH:ERROR: Name or description missing in info.txt
-TRANSLATED:ERRORea: Izena edo deskribapena falta da info.txt fitxategian
+TRANSLATED:ERROREA: Izena edo deskribapena falta da info.txt fitxategian
 CONTEXT:
 
 ENGLISH:Edit teams
@@ -307,7 +307,7 @@ TRANSLATED:Mod izena hutsik dago info.txt fitxategian
 CONTEXT:
 
 ENGLISH:Empty save slot
-TRANSLATED:Partida hutsa
+TRANSLATED:Ez dago partidarik gordeta
 CONTEXT:
 
 ENGLISH:Enable Lua debugger
@@ -315,11 +315,11 @@ TRANSLATED:Gaitu Lua araztailea
 CONTEXT:
 
 ENGLISH:End of 1st Quarter
-TRANSLATED:1. laurdenaren amaiera
+TRANSLATED:1. Laurdenaren amaiera
 CONTEXT:
 
 ENGLISH:End of 3rd Quarter
-TRANSLATED:3. laurdenaren amaiera
+TRANSLATED:3. Laurdenaren amaiera
 CONTEXT:
 
 ENGLISH:End turn
@@ -347,7 +347,7 @@ TRANSLATED:Energia plusa
 CONTEXT:
 
 ENGLISH:File already stored. Please refresh.
-TRANSLATED:Fitxategia badago dagoeneko. Freskatu, mesedez.
+TRANSLATED:Fitxategia gorde da dagoeneko. Freskatu, mesedez.
 CONTEXT:
 
 ENGLISH:File could not be found.
@@ -383,11 +383,11 @@ TRANSLATED:Gameplaya
 CONTEXT:
 
 ENGLISH:General Manager
-TRANSLATED:Manager Orokorra
+TRANSLATED:Zuzendari Orokorra
 CONTEXT:
 
 ENGLISH:Get an extra card option at halftime if you have a top # player in all categories before the match starts
-TRANSLATED:Atsedenaldian kategoria guztietan top # den jokalari bat baduzu, lortu karta estra bat lortzeko aukera.
+TRANSLATED:Atsedenaldian kategoria guztietan top # den jokalari bat baduzu, lortu karta bat gehiago lortzeko aukera.
 CONTEXT:
 
 ENGLISH:Graphics
@@ -451,7 +451,7 @@ TRANSLATED:Jokoa pantaila osokoa bada, baliteke leihora eskuz aldatu behar izate
 CONTEXT:
 
 ENGLISH:If the teams have the same points, the game extends into overtime.
-TRANSLATED:Taldeek puntu kantitate berdina badute, partida luzapenera doa.
+TRANSLATED:Taldeek puntu kantitate berdina badute, partidua luzapenera doa.
 CONTEXT:
 
 ENGLISH:Increase the effect.
@@ -463,11 +463,11 @@ TRANSLATED:Sartu aurkariaren piloan karta berri bat ausazko posizioan.
 CONTEXT:
 
 ENGLISH:Insert a new card at a random position in your draw pile
-TRANSLATED:Sartu karta berri bat ausazko podizioan zure karta piloan.
+TRANSLATED:Sartu karta berri bat ausazko posizioan zure karta piloan.
 CONTEXT:
 
 ENGLISH:Instead of clicking the button, you can also move left and right or use the mouse wheel
-TRANSLATED:Botoia sakatu beharrean, ezker edo eskuinera mugitu edoi saguaren gurpiltxoa ere erabil dezakezu.
+TRANSLATED:Botoia sakatu beharrean, ezker edo eskuinera mugitu edo saguaren gurpiltxoa ere erabil dezakezu.
 CONTEXT:
 
 ENGLISH:Instead of pressing the button, you can also move left and right
@@ -539,7 +539,7 @@ TRANSLATED:Kargatzen
 CONTEXT:
 
 ENGLISH:Lob Pass
-TRANSLATED:Lob pasea
+TRANSLATED:Kako pasea
 CONTEXT:
 
 ENGLISH:Logo design
@@ -551,7 +551,7 @@ TRANSLATED:Hasierako menua
 CONTEXT:
 
 ENGLISH:Make a random {Shot:Shot} in your hand {unstoppable:unstoppable} this match.
-TRANSLATED:Bihurtu zure eskuko ausazko {Shot:Shot} {unstoppable:Geldiezina} partidu honetan.
+TRANSLATED:Bihurtu zure eskuko ausazko {Shot:jaurtiketa} {unstoppable:geldiezina} partidu honetan.
 CONTEXT:
 
 ENGLISH:Make all your [card:rebound] cards {instant:Instant} until played.
@@ -607,15 +607,15 @@ TRANSLATED:Inoiz ez
 CONTEXT:
 
 ENGLISH:Next time your card gets {removed:removed}, add a random {Action:Action} to your hand
-TRANSLATED:Zure karta {removed:kentzen} den hurrengo aldian, gehitu ausazko {Action:Ekintza} bat zure eskura
+TRANSLATED:Zure karta {removed:kentzen} den hurrengo aldian, gehitu ausazko {Action:ekintza} bat zure eskura
 CONTEXT:
 
 ENGLISH:Next {Assist:Assist} costs zero
-TRANSLATED:Hurrengo {Assist:Asistentzia}-k zero kostua du.
+TRANSLATED:Hurrengo {Assist:asistentzia}k zero kostua du.
 CONTEXT:
 
 ENGLISH:Next {Shot:Shot} costs zero
-TRANSLATED:Hurrengo {Shot:Jaurtiketa} ren kostua zero da
+TRANSLATED:Hurrengo {Shot:jaurtiketa}ren kostua zero da
 CONTEXT:
 
 ENGLISH:Nintendo Switch Pro Controller
@@ -687,15 +687,15 @@ TRANSLATED:Kokatu karta piloaren gainean.
 CONTEXT:
 
 ENGLISH:Place the card down and provide the effects listed below the Stack icon.\n\r{discard:Discarded} when used up.
-TRANSLATED:Jarri karta mahaiean eta eragin zerrendatutako efektuak.\n\r{discard:Baztertu} erabili ostean.
+TRANSLATED:Jarri karta mahaiean eta zerrendatutako efektuak eragin.\n\r{discard:Baztertu} erabili ostean.
 CONTEXT:
 
 ENGLISH:Plan ahead
-TRANSLATED:Planifikatu aurrez
+TRANSLATED:Aurrez planifikatu
 CONTEXT:
 
 ENGLISH:Play a {Shot:Shot} to reduce the cost by 3 this turn.
-TRANSLATED:Jokatu {Shot:Jaurtiketa} bat kostua 3 puntutan murrizteko.
+TRANSLATED:Jokatu {Shot:jaurtiketa} bat kostua 3 puntutan murrizteko.
 CONTEXT:
 
 ENGLISH:Play cards from your hand to score points or prevent the opposing team from doing the same.
@@ -703,11 +703,11 @@ TRANSLATED:Zure eskuko kartak jokatu puntuak lortu edo aurkariak lortzea saihest
 CONTEXT:
 
 ENGLISH:Play next game
-TRANSLATED:Jokatu hurrengo partida
+TRANSLATED:Jokatu hurrengo partidua
 CONTEXT:
 
 ENGLISH:Play {Assist:Assists} to reduce the cost this turn.
-TRANSLATED:Jokatu {Assist:Assists} txanda honetan kostua gutxitzeko
+TRANSLATED:Jokatu {Assist:asistentziak} txanda honetan kostua gutxitzeko
 CONTEXT:
 
 ENGLISH:Player name
@@ -727,7 +727,7 @@ TRANSLATED:Playoffak
 CONTEXT:
 
 ENGLISH:Press a button or push a stick
-TRANSLATED:Zapaldu botoien bat edota mugitu stick-a
+TRANSLATED:Sakatu botoiren bat edota mugitu sticka
 CONTEXT:
 
 ENGLISH:Pressure
@@ -735,11 +735,11 @@ TRANSLATED:Presioa
 CONTEXT:
 
 ENGLISH:Prevent the next opponent {Shot:Shot} from scoring.
-TRANSLATED:Saihestu aurkariak hurrengo {Shot:Jaurtiketa} saskiratzea.
+TRANSLATED:Saihestu aurkariak hurrengo {Shot:jaurtiketa} saskiratzea.
 CONTEXT:
 
 ENGLISH:Programming
-TRANSLATED:Programatzen
+TRANSLATED:Programazioa
 CONTEXT:
 
 ENGLISH:Put a new card at the top of your draw pile
@@ -747,11 +747,11 @@ TRANSLATED:Jarri karta berri bat zure karta piloaren gainean.
 CONTEXT:
 
 ENGLISH:Put some effort now to make it easier during the game. Select a card to reduce the cost.
-TRANSLATED:Egin esfortzu bat orain partida errazago joateko. aukeratu karta bat kostua gutxitzeko.
+TRANSLATED:Egin esfortzu bat orain partidua errazago joateko. Aukeratu karta bat kostua gutxitzeko.
 CONTEXT:
 
 ENGLISH:Randomly select a card from your draw or discard pile and move it into your hand
-TRANSLATED:Aukeratu ausaz karta bat zure hartrzeko pilotik edo baztertuen pilotik eta mugitu zure eskura
+TRANSLATED:Aukeratu ausaz karta bat zure hartzeko pilotik edo baztertuen pilotik eta mugitu zure eskura
 CONTEXT:
 
 ENGLISH:Reduce cost of [card:dunk] cards in your hand.
@@ -759,11 +759,11 @@ TRANSLATED:Gutxitu zure eskuko [card:dunk] karten kostua
 CONTEXT:
 
 ENGLISH:Reduce cost of all {Shot:Shots} in your hand by 3 this turn.
-TRANSLATED:Txanda honetan gutxitu zure eskuko {Shot:Jaurtiketa} guztien kostua 3 puntutan.
+TRANSLATED:Txanda honetan gutxitu zure eskuko {Shot:jaurtiketa} guztien kostua 3 puntutan.
 CONTEXT:
 
 ENGLISH:Reducing cost while {held:held}
-TRANSLATED:Kostua gutxitzen doa {held: eskuan mantentzen} duzun txanda bakoitzean
+TRANSLATED:Kostua gutxitzen doa {held:eskuan mantentzen} duzun txanda bakoitzean
 CONTEXT:
 
 ENGLISH:Regular Season
@@ -799,7 +799,7 @@ TRANSLATED:AUKERATU TALDEAK
 CONTEXT:
 
 ENGLISH:Saved games and settings
-TRANSLATED:Gordetako partida eta ezarpenak
+TRANSLATED:Gordetako partidak eta ezarpenak
 CONTEXT:
 
 ENGLISH:Saving...
@@ -875,11 +875,11 @@ TRANSLATED:Erabili energia kartak jolasteko.\n\rKartak jolasteko kostua ezkerrek
 CONTEXT:
 
 ENGLISH:Start each match with these cards.
-TRANSLATED:Hasi partida bakoitza karta hauekin.
+TRANSLATED:Hasi partidu bakoitza karta hauekin.
 CONTEXT:
 
 ENGLISH:Start every {period:period} with this card
-TRANSLATED:Hasi {period:Laurden} bakoitza karta honekin
+TRANSLATED:Hasi {period:laurden} bakoitza karta honekin
 CONTEXT:
 
 ENGLISH:Starting upload process...
@@ -911,7 +911,7 @@ TRANSLATED:TALDEAK
 CONTEXT:
 
 ENGLISH:Team draws cards from this pile at the start of each turn.\nWhen there are not enough cards to draw, cards from Discard Pile are shuffled into this Draw Pile.
-TRANSLATED:Taldeak txanda bakoitzaren hasieran kartak hartuko ditu hemendik.\nEz dagoenean karta nahikorik, baztertuen pilokop kartak nahastu eta hartzeko piloan jarriko dira.
+TRANSLATED:Taldeak txanda bakoitzaren hasieran kartak hartuko ditu hemendik.\nEz dagoenean karta nahikorik, baztertuen piloko kartak nahastu eta hartzeko piloan jarriko dira.
 CONTEXT:
 
 ENGLISH:Team name
@@ -919,7 +919,7 @@ TRANSLATED:Taldearen izena
 CONTEXT:
 
 ENGLISH:Technical Free Throw
-TRANSLATED:Jaurtiketa Libre Teknikoa
+TRANSLATED:Teknika: jaur. librea
 CONTEXT:
 
 ENGLISH:Temporary lock because recent user change.
@@ -927,7 +927,7 @@ TRANSLATED:Aldi baterako blokeatuta berriki erabiltzailea aldatu delako.
 CONTEXT:
 
 ENGLISH:The clock stops while playing this card.
-TRANSLATED:Karta hau jolasten den bitartean erlojua geratzen da.
+TRANSLATED:Karta hau jolasten den bitartean erlojua gelditu egiten da.
 CONTEXT:
 
 ENGLISH:The fans in the arena cheer for the home team, giving them extra stamina and card draw.
@@ -935,15 +935,15 @@ TRANSLATED:Kiroldegiko zaleek etxeko taldea animatzen dute, energia eta karta ge
 CONTEXT:
 
 ENGLISH:The first {Defense:Defense} card you play each turn is free
-TRANSLATED:Txanda bakoitzean jolasten duzun lehen {Defense:Defentsa} kartak ez du kosturik.
+TRANSLATED:Txanda bakoitzean jolasten duzun lehen {Defense:defentsa} kartak ez du kosturik.
 CONTEXT:
 
 ENGLISH:The game is played over 4 quarters, each lasting 10 or 12 minutes depending on the region.\nWhenever the score is tied at the end, the game extends into overtime of 5 minutes.\nA {period:period} is a common name for quarters and overtime.
-TRANSLATED:Partiduek 4 laurden dituzte, bakoiitzak jokatzen duzun zonaldearen arabera 10 edo 12 minutuko iraupenarekin.\nAmaieran berdinketa badago, bost minutuko luzapena du.\n{period:Laurdena} laurdenak zein luzapena izendatzeko ohiko izena da.
+TRANSLATED:Partiduek 4 laurden dituzte, bakoiitzak jokatzen duzun zonaldearen arabera 10 edo 12 minutuko iraupenarekin.\nAmaieran berdinketa badago, bost minutuko luzapena du.\n{period:laurdena} laurdenak zein luzapena izendatzeko ohiko izena da.
 CONTEXT:
 
 ENGLISH:The game will close and you need to launch it again.
-TRANSLATED:Jokoa itxi egingo da eta berriz abiarazi behar duzu.
+TRANSLATED:Jokoa itxi egingo da eta berriz abiarazi beharko duzu.
 CONTEXT:
 
 ENGLISH:The home team draws an additional card if the crowd noise is [DRAW] or more at the start of round.
@@ -955,7 +955,7 @@ TRANSLATED:Etxeko taldeak +1 energia lortzen du erronda hasieran zaleen zarata [
 CONTEXT:
 
 ENGLISH:The shooting coach asks if we should focus on shooting speed or skill?
-TRANSLATED:Jaurtiketen entrenatzaileak ea jaurtiketa abiadura edo abilezian zentratu behar garen galdetzen du
+TRANSLATED:Jaurtiketen entrenatzaileak ea jaurtiketa abiadura edo abilezian zentratuko garen galdetzen du
 CONTEXT:
 
 ENGLISH:These are the cards your opponent will play next.
@@ -963,15 +963,15 @@ TRANSLATED:Hauek dira zure aurkariak jokatuko dituen hurrengo kartak.
 CONTEXT:
 
 ENGLISH:These cards are permanently removed from the current match.\nIf the card is part of team's main deck, it will return for the next match.\nSome rare cards can retrieve removed cards during the match.
-TRANSLATED:Karta hauek partidu hau amaitu arte kentzen dira.\nKarta taldearen karta piloko nagusikoa bada, hurrengo partidan bueltatuko da.\nKarta batzuk baztertutako kartak partidan zehar errekuperatzeko aukera ematen dute.
+TRANSLATED:Karta hauek partidu hau amaitu arte kentzen dira.\nKarta taldearen karta pilo nagusikoa bada, hurrengo partiduan bueltatuko da.\nKarta batzuk baztertutako kartak partiduan zehar errekuperatzeko aukera ematen dute.
 CONTEXT:
 
 ENGLISH:These cards are permanently removed from the current match.\nIf the card is part of team's main deck, they will get it back for the next match.\nSome rare cards can retrieve removed cards during the match.
-TRANSLATED:Karta hauek partidu hau amaitu arte kentzen dira.\nKarta taldearen karta pilo nagusikoa bada, hurrengo partidarako bueltan izango dute.\nKarta batzuk baztertutako kartak partidan zehar errekuperatzeko aukera ematen dute.
+TRANSLATED:Karta hauek partidu hau amaitu arte kentzen dira.\nKarta taldearen karta pilo nagusikoa bada, hurrengo partidurako bueltan izango dute.\nKarta batzuk baztertutako kartak partiduan zehar errekuperatzeko aukera ematen dute.
 CONTEXT:
 
 ENGLISH:These cards are permanently removed from the current match.\nIf the card is part of team's main deck, you will get it back for the next match.\nSome rare cards can retrieve removed cards during the match.
-TRANSLATED:Karta hauek partidu hau amaitu arte kentzen dira.\nKarta taldearen karta pilo nagusikoa bada, hurrengo partidarako bueltan izango dituzu.\nKarta batzuk baztertutako kartak partidan zehar errekuperatzeko aukera ematen dute.
+TRANSLATED:Karta hauek partidu hau amaitu arte kentzen dira.\nKarta taldearen karta pilo nagusikoa bada, hurrengo partidurako bueltan izango dituzu.\nKarta batzuk baztertutako kartak partiduan zehar errekuperatzeko aukera ematen dute.
 CONTEXT:
 
 ENGLISH:This is your team's stamina
@@ -979,7 +979,7 @@ TRANSLATED:Hau da zure taldearen energia
 CONTEXT:
 
 ENGLISH:This setting cannot change during a match, but you can adjust it between matches.
-TRANSLATED:Ezarpen hau ezin da partida betean aldatu, baina partiden artean alda dezakezu.
+TRANSLATED:Ezarpen hau ezin da partidu betean aldatu, baina partiduen artean alda dezakezu.
 CONTEXT:
 
 ENGLISH:This was just a quick introduction.\n\nYou can select any element on the screen to get more details.
@@ -995,7 +995,7 @@ TRANSLATED:Karta pilora gehitzeko
 CONTEXT:
 
 ENGLISH:To win the game, outscore your opponent before the time runs out.
-TRANSLATED:Partida irabazteko lortu aurkjariak baina puntu gehiago denbora amaitu aurretik.
+TRANSLATED:Partidua irabazteko lortu aurkariak baina puntu gehiago denbora amaitu aurretik.
 CONTEXT:
 
 ENGLISH:Unknown command [CMD]
@@ -1007,7 +1007,7 @@ TRANSLATED:Kartan kontrakoa esaten ez bada, jokatu ondoren pilo honetara doaz ka
 CONTEXT:
 
 ENGLISH:Unless noted differently on the card, any card the opposing team plays will be moved onto this pile.\nAny cards still in their hand at the end of their turn will also be moved here.
-TRANSLATED:Kartak kontrakoa zehaztu ezean, aurkariak jokatutako edozein karta pilo honetara doa. Txanda amaieran eskuan den edozein karta ere hona joango da.
+TRANSLATED:Kartak kontrakoa zehaztu ezean, aurkariak jokatutako edozein karta pilo honetara doa.\nTxanda amaieran eskuan den edozein karta ere hona joango da.
 CONTEXT:
 
 ENGLISH:Unless noted differently on the card, any card you play gets moved onto this pile afterwards.\nAny cards that stay in your hand at the end of your turn also get moved here.
@@ -1067,11 +1067,11 @@ TRANSLATED:Hartzerakoan {discard:baztertu} eskuko {Shot:jaurtiketa} guztiak
 CONTEXT:
 
 ENGLISH:When the 4th quarter ends, the game is over and the team with more points wins.
-TRANSLATED:4. Laurdena amaitzean partida amaitzen da eta puntu gehien dituen taldeak irabazten du.
+TRANSLATED:4. Laurdena amaitzean partidua amaitzen da eta puntu gehien dituen taldeak irabazten du.
 CONTEXT:
 
 ENGLISH:Whenever you draw a {Hindrance:Hindrance} get {stamina:Stamina}[gfx:NRG] equal to its cost
-TRANSLATED:{Hindrance:Oztopo} bart hartzen duzunero bere kostua adina {stamina:energia}[gfx:NRG] ere hartu
+TRANSLATED:{Hindrance:Oztopo} bat hartzen duzunero bere kostua adina {stamina:energia}[gfx:NRG] ere hartu
 CONTEXT:
 
 ENGLISH:Which Shot should the shooting coach make Unstoppable?
@@ -1083,7 +1083,7 @@ TRANSLATED:Irabazi lehiaketa bat Afrikan Entrenatzaile zailtasunean
 CONTEXT:
 
 ENGLISH:Win a competition in Europe at Coach difficulty
-TRANSLATED:Irabazi lehiaketa bat Europan entrenatzaile zailtasunean
+TRANSLATED:Irabazi lehiaketa bat Europan Entrenatzaile zailtasunean
 CONTEXT:
 
 ENGLISH:Win a competition in Oceania at Coach difficulty
@@ -1099,7 +1099,7 @@ TRANSLATED:Irabazi lehiaketa bat Asiako lekuren batean Entrenatzaile zailtasunea
 CONTEXT:
 
 ENGLISH:Win a match
-TRANSLATED:Partida bat irabazi
+TRANSLATED:Partidu bat irabazi
 CONTEXT:
 
 ENGLISH:Win a national competition at Coach difficulty
@@ -1107,7 +1107,7 @@ TRANSLATED:Irabazi selekzioen lehiaketa bat Entrenatzaile zailtasunean
 CONTEXT:
 
 ENGLISH:Win all games in a Season at Coach difficulty
-TRANSLATED:Irabazi denboraldi bateko partida guztiak Entrenatzaile zailtasunean
+TRANSLATED:Irabazi denboraldi bateko partidu guztiak Entrenatzaile zailtasunean
 CONTEXT:
 
 ENGLISH:Workshop server problem. Please try again.
@@ -1115,7 +1115,7 @@ TRANSLATED:Workshopeko zerbitzariarekin arazoa. Mesedez saiatu berriz.
 CONTEXT:
 
 ENGLISH:Yes, restore original teams
-TRANSLATED:Bai, berrezarri talde originalak
+TRANSLATED:Bai, berrezarri jatorrizko taldeak
 CONTEXT:
 
 ENGLISH:You can add translations for a new language and edit the exiting ones.
@@ -1123,7 +1123,7 @@ TRANSLATED:Hizkuntza berrietarako itzulpenak gehitu ditzakezu edo daudenak edita
 CONTEXT:
 
 ENGLISH:You can bind multiple inputs to the same action
-TRANSLATED:Hainbat sarrera lotu diezaizkiozu ekintza berdinari.
+TRANSLATED:Hainbat sarrera lotu diezazkiozu ekintza berdinari.
 CONTEXT:
 
 ENGLISH:You might want to go back and activate these mods before playing.
@@ -1159,15 +1159,15 @@ TRANSLATED:Zure eskuko [card:freeThrow] kartak +1 kostua du txanda honetan.
 CONTEXT:
 
 ENGLISH:{boost:Boost} and {removed:Remove}
-TRANSLATED:{boost:Boost} and {removed:Remove}
+TRANSLATED:{boost:Hobetu} eta{removed:kendu}
 CONTEXT:
 
 ENGLISH:{boost:Boost} every [card:timeout] in your hand
-TRANSLATED:{boost:Bultzatu} zure eskuko [card:timeout] bakoitza
+TRANSLATED:{boost:Hobetu} zure eskuko [card:timeout] bakoitza
 CONTEXT:
 
 ENGLISH:{boost:Boost}
-TRANSLATED:{boost:Bultzada}
+TRANSLATED:{boost:Hobetu}
 CONTEXT:
 
 ENGLISH:{clone:Clone} a card from opponent deck into your hand.
@@ -1191,7 +1191,7 @@ TRANSLATED:{destroy:Suntsitu}
 CONTEXT:
 
 ENGLISH:{discard:Discard} a {stack:stacked} opponent {Assist:Assist} or {force:Force} a [card:shotclockViolation] if none
-TRANSLATED:{discard:Baztertu} aurkariaren {stack:pilatutako} asistentzia bat edo ez badago {force:behartu} [card:shotclockViolation] bat
+TRANSLATED:{discard:Baztertu} aurkariaren {stack:pilatutako} {Assist:asistentzia} bat edo ez badago {force:behartu} [card:shotclockViolation] bat
 CONTEXT:
 
 ENGLISH:{discard:Discard} at the end of {period:period}
@@ -1199,7 +1199,7 @@ TRANSLATED:{discard:Baztertu} {period:laurdena} amaitzean
 CONTEXT:
 
 ENGLISH:{discard:Discard} hand except {Shot:Shots}
-TRANSLATED:Eskua {discard:Baztertu} {Shot:Jaurtiketak} izan ezik
+TRANSLATED:Eskua {discard:baztertu} {Shot:jaurtiketak} izan ezik
 CONTEXT:
 
 ENGLISH:{discard:Discard} the first card in opponent stack.
@@ -1207,7 +1207,7 @@ TRANSLATED:{discard:Baztertu} aurkariak pilatuta duen lehen karta.
 CONTEXT:
 
 ENGLISH:{discard:Discard} your {stack:stacked} {Defense:Defenses}.
-TRANSLATED:{discard:Baztertu} zure {stack:pilatutako} {Defense:Defentsak}.
+TRANSLATED:{discard:Baztertu} zure {stack:pilatutako} {Defense:defentsak}.
 CONTEXT:
 
 ENGLISH:{discard:Discard} your {stack:stack}
@@ -1231,7 +1231,7 @@ TRANSLATED:{force:Behartu} [card:technicalFreeThrow] bat.
 CONTEXT:
 
 ENGLISH:{force:Force} a random {Hindrance:Hindrance} and a [card:technicalFreeThrow].
-TRANSLATED:{force:Behartu} ausazko {Hindrance:oztopo} bat eta[card:technicalFreeThrow].
+TRANSLATED:{force:Behartu} ausazko {Hindrance:oztopo} bat eta [card:technicalFreeThrow].
 CONTEXT:
 
 ENGLISH:{foul:Foul} the next opponent Shot
@@ -1263,11 +1263,11 @@ TRANSLATED:{pull:Atera} [card:rebound] karta bat.
 CONTEXT:
 
 ENGLISH:{pull:Pull} a {Shot:Shot} and an {Assist:Assist} and reduce their cost by 1 this turn
-TRANSLATED:{pull:Atera} a {Shot:jaurtiketa} eta {Assist:Asistentzia} bana eta gutxitu beren kostua puntu batean txanda honetarako
+TRANSLATED:{pull:Atera} a {Shot:jaurtiketa} eta {Assist:asistentzia} bana eta gutxitu hauen kostua puntu batean txanda honetarako
 CONTEXT:
 
 ENGLISH:{removed:Remove} all {Assist:Assists} from your {stack:stack}.
-TRANSLATED:{removed:Kendu} zure {stack:pilatuetako} {Assist:Asistentzia} guztiak.
+TRANSLATED:{removed:Kendu} zure {stack:pilatuetako} {Assist:asistentzia} guztiak.
 CONTEXT:
 
 ENGLISH:{removed:Remove} if {held:held}
@@ -1427,11 +1427,11 @@ TRANSLATED:Igo orain
 CONTEXT:imperative
 
 ENGLISH:All 2P Shots Unstoppable\nat start of next match
-TRANSLATED:2P jaurtiketa guztiak Geldiezinak bihurtzen dira hurrengo partidaren hasieran
+TRANSLATED:2P jaurtiketa guztiak Geldiezinak bihurtzen \ndira hurrengo partiduaren hasieran
 CONTEXT:shots on basket
 
 ENGLISH:All 2P Shots cost zero\nat start of next match
-TRANSLATED:2P jaurtiketa guztiek 0 energiako kostua dute hurrengo partiduaren hasieran
+TRANSLATED:2P jaurtiketa guztiek 0 energiako kostua \ndute hurrengo partiduaren hasieran
 CONTEXT:shots on basket
 
 ENGLISH:All messages
@@ -1523,7 +1523,7 @@ TRANSLATED:Atzera
 CONTEXT:back to previous screen
 
 ENGLISH:Backcourt Violation
-TRANSLATED:Atzealdera itzultzea
+TRANSLATED:Atzerakada egitea
 CONTEXT:player error
 
 ENGLISH:Backdoor Cut
@@ -1543,7 +1543,7 @@ TRANSLATED:Entrenatzaile bihurtu eta ikusi jokalariak jolasten. Akatsak egingo d
 CONTEXT:Auto play description
 
 ENGLISH:Stops when the period ends. You can increase the animation speed in the settings.
-TRANSLATED:Laurdena amaitzean geratzen da. Animazio abiadura ezarpenetan igo dezakezu.
+TRANSLATED:Laurdena amaitzean gelditzen da. Animazio abiadura ezarpenetan igo dezakezu.
 CONTEXT:Auto play description
 
 ENGLISH:Bench player
@@ -1571,19 +1571,19 @@ TRANSLATED:Superizarra
 CONTEXT:player skill level
 
 ENGLISH:Benchwarmer
-TRANSLATED:Aulkiberotzailea
+TRANSLATED:Aulki berotzailea
 CONTEXT:player who rarely gets into the game off the bench
 
 ENGLISH:Best of 3
-TRANSLATED:3 partidatako onena
+TRANSLATED:3 partidutako onena
 CONTEXT:how many matches are played in elimination round, you can also use Until 2 wins or To 2 victories is that makes more sense in the other language
 
 ENGLISH:Best of 5
-TRANSLATED:5 partidatako onena
+TRANSLATED:5 partidutako onena
 CONTEXT:how many matches are played in elimination round, you can also use Until 3 wins or To 3 victories is that makes more sense in the other language
 
 ENGLISH:Best of 7
-TRANSLATED:7 partidatako onena
+TRANSLATED:7 partidutako onena
 CONTEXT:how many matches are played in elimination round, you can also use Until 4 wins or To 4 victories is that makes more sense in the other language
 
 ENGLISH:Big
@@ -1607,7 +1607,7 @@ TRANSLATED:Blokeatu
 CONTEXT:block an opponent shot at the basket
 
 ENGLISH:Boost
-TRANSLATED:Indartu
+TRANSLATED:Hobetu
 CONTEXT:boost = improve,strenghten,enhance.
 
 ENGLISH:Box Out
@@ -1623,7 +1623,7 @@ TRANSLATED:Parekatzeak
 CONTEXT:Tree of teams in tournament. You can use the word: Pairs
 
 ENGLISH:Brick
-TRANSLATED:Meloia
+TRANSLATED:Harrikada
 CONTEXT:missing a shot badly
 
 ENGLISH:Build Your Deck
@@ -1647,7 +1647,7 @@ TRANSLATED:Pilatu zure defentsa
 CONTEXT:Trailer text
 
 ENGLISH:Build up crowd noise to #
-TRANSLATED:Igo zaleen zarata # ra
+TRANSLATED:Igo zaleen zarata #ra
 CONTEXT:number, ex. to 100
 
 ENGLISH:Build your perfect deck and become a Champion.
@@ -1655,7 +1655,7 @@ TRANSLATED:Sortu zure karta pilo perfektua eta bihurtu zaitez txapeldun.
 CONTEXT:Store page description
 
 ENGLISH:Can you help your favorite team win the Championship?
-TRANSLATED:Lagun dezakezu zure talderik gustokoena txapelketa irabaz dezan?
+TRANSLATED:Zure talderik gustokoena txapeldun bihur dezakezu?
 CONTEXT:Store page description
 
 ENGLISH:Clutchtime is a deck builder centered around basketball plays and team synergies.
@@ -1667,7 +1667,7 @@ TRANSLATED:Clutchtime: Saskibaloi Deckbuilderra
 CONTEXT:Store page description
 
 ENGLISH:Different game modes:\nElimination tournaments in true roguelike style, or\nClassic regular season where you can lose some games, but have to qualify and win the playoffs to become a Champion.
-TRANSLATED:Joko modu ezberdinak:\nKanporaketa txapelketak roguelike estiloan, edo\nDenboraldi erregularrak, non partida batzuk galdu arren, playoffetara sailkatu, irabazi eta txapeldun bihurtu zaitezkeen.
+TRANSLATED:Joko modu ezberdinak:\nKanporaketa txapelketak roguelike estiloan, edo\nDenboraldi erregularrak, non partidu batzuk galdu arren, playoffetara sailkatu, irabazi eta txapeldun bihurtu zaitezkeen.
 CONTEXT:Store page description
 
 ENGLISH:Double Team your opponents and force Turnovers or create a dream team of Superstar shooters who Splash three pointers even while getting fouled.
@@ -1675,7 +1675,7 @@ TRANSLATED:Talde bikoitzarekin behartu baloi-galtzeak edo sortu falta jaso arren
 CONTEXT:Store page description
 
 ENGLISH:Each team has a starting deck of 5 starter players with 3 cards representing their skills.
-TRANSLATED:Talde bakoitzak hasierako bost jokalariko karta piloa du, jokalari bakoitzaren trebezia errepresentatzeko hiru kartarekin.
+TRANSLATED:Talde bakoitzak hasierako bost jokalariko karta piloa du, jokalari bakoitzaren trebezia adierazteko hiru kartarekin.
 CONTEXT:Store page description
 
 ENGLISH:Random events happen during the season, which allow you to:\ntrade with other teams\nupgrade cards\nremove cards that don't fit your strategy\nduplicate your favorite cards\nand more...
@@ -1707,7 +1707,7 @@ TRANSLATED:Ezin izan da fitxategia kargatu:
 CONTEXT:followed by filename
 
 ENGLISH:Cannot play {Shot:Shots} while in hand.
-TRANSLATED:Ezin dira {Shot:jaurtiketak} jokatu eskuan badago.
+TRANSLATED:Ezin da {Shot:jaurtiketarik} jokatu eskuan badago.
 CONTEXT:cannot play shot while that other card is in your hand
 
 ENGLISH:Cardio
@@ -1759,11 +1759,11 @@ TRANSLATED:Begiratu nire beste jokoak
 CONTEXT:video games
 
 ENGLISH:Circus Shot
-TRANSLATED:Jaurtiketa baldarra
+TRANSLATED:Karanbola
 CONTEXT:awkward shot at the basket
 
 ENGLISH:Cleanup
-TRANSLATED:Garbiketa
+TRANSLATED:Jipoitzarra
 CONTEXT:removal of unneeded cards
 
 ENGLISH:Clog the Paint
@@ -1787,11 +1787,11 @@ TRANSLATED:Presiorik ez
 CONTEXT:ability to perform under pressure when a close game is coming to an end
 
 ENGLISH:Coach Challenge
-TRANSLATED:Entrenatzailearen zalantzak
+TRANSLATED:Epaileari erronka
 CONTEXT:Challenging a referee call
 
 ENGLISH:Coast to Coast
-TRANSLATED:Aturritik Ebrora
+TRANSLATED:Alde batetik bestera
 CONTEXT:run across the whole basketball court
 
 ENGLISH:Comeback
@@ -1819,7 +1819,7 @@ TRANSLATED:Agintea
 CONTEXT:game controller device
 
 ENGLISH:Correct scaling on each monitor (recommended)\nRequires Windows 10 version 1607 or newer
-TRANSLATED:Monitore bakoitzean eskala zuzena\n(gomendatua)\nWindows 10 1607 bertsioa edo aurreragoko bat eskatzen du
+TRANSLATED:Monitore bakoitzean eskala zuzena (gomendatua)\nWindows 10 1607 bertsioa edo aurreragoko bat eskatzen du
 CONTEXT:display scaling setting
 
 ENGLISH:Disabled
@@ -1831,7 +1831,7 @@ TRANSLATED:Gaitua (Windows 8.1 edo aurreragokoentzat)
 CONTEXT:display scaling setting
 
 ENGLISH:Cost +# and {boost:Boost}
-TRANSLATED:+# kostua eta {boost:bultzatu}
+TRANSLATED:+# kostua eta {boost:hobetu}
 CONTEXT:card stamina cost to play
 
 ENGLISH:Cost +1
@@ -1843,11 +1843,11 @@ TRANSLATED:Jokatzen duzun hurrengo {Shot:jaurtiketaren} kostuak -# jasoko du bet
 CONTEXT:card stamina cost to play
 
 ENGLISH:Create failed:
-TRANSLATED:Sorkuntzak huts egin du
+TRANSLATED:Sortze prozesuak huts egin du:
 CONTEXT:creating Steam workshop item failed
 
 ENGLISH:Error: no item ID. Check log for details.
-TRANSLATED:Errorea: ez dago elementuaren ID rik. Kontsultatu erregistroa detaile gehiagorako.
+TRANSLATED:Errorea: ez dago elementuaren ID rik. Kontsultatu erregistroa xehetasun gehiagorako.
 CONTEXT:creating Steam workshop item failed
 
 ENGLISH:Steam I/O error
@@ -1919,7 +1919,7 @@ TRANSLATED:Urrutiko hirukoa
 CONTEXT:3 point shot from great distance
 
 ENGLISH:Deflection
-TRANSLATED:Desbideratzea
+TRANSLATED:Aldaratzea
 CONTEXT:deflect the ball when the opponent tries to pass it
 
 ENGLISH:Delete:
@@ -1991,7 +1991,7 @@ TRANSLATED:Karta pilo nagusia
 CONTEXT:deck of cards
 
 ENGLISH:Opponent Discard Pile
-TRANSLATED:Aurkariaren baztertutakoen piloa
+TRANSLATED:Aurkariaren baztertutako karten piloa
 CONTEXT:deck of cards
 
 ENGLISH:Opponent Draw Pile
@@ -2007,7 +2007,7 @@ TRANSLATED:Baztertutako karten piloa
 CONTEXT:deck of cards
 
 ENGLISH:Your Draw Pile
-TRANSLATED:Zure karta piloa
+TRANSLATED:Zure hartzeko karta piloa
 CONTEXT:deck of cards
 
 ENGLISH:Your Remove Pile
@@ -2043,11 +2043,11 @@ TRANSLATED:Gaitua
 CONTEXT:option turned on
 
 ENGLISH:End of Game
-TRANSLATED:Partidaren amaiera
+TRANSLATED:Partiduaren amaiera
 CONTEXT:end of match
 
 ENGLISH:Engine and Files
-TRANSLATED:Motorra eta fitxategiak
+TRANSLATED:Motorea eta fitxategiak
 CONTEXT:developer settings menu
 
 ENGLISH:Equipment upgrade
@@ -2071,15 +2071,15 @@ TRANSLATED:Pantaila osoa
 CONTEXT:monitor display mode
 
 ENGLISH:Extra Card Draw
-TRANSLATED:Zenbat karta estra gehiago
+TRANSLATED:Zenbat karta gehigarri gehiago
 CONTEXT:How many additional cards to draw from deck
 
 ENGLISH:Fadeaway Jump Shot
-TRANSLATED:Atzera salto egiten jaurtiketa
+TRANSLATED:Fade away jaurtiketa
 CONTEXT:card name. Shooting while jumping backwards
 
 ENGLISH:Fast Break
-TRANSLATED:Kontraerasoa
+TRANSLATED:Kontra erasoa
 CONTEXT:run fast to opponent basket after stealing the ball
 
 ENGLISH:Fast
@@ -2195,7 +2195,7 @@ TRANSLATED:Txapelketa
 CONTEXT:competition type
 
 ENGLISH:GB
-TRANSLATED:JF
+TRANSLATED:PA
 CONTEXT:In standings table. short for Games Behind the leading team.
 
 ENGLISH:Game Clock
@@ -2207,11 +2207,11 @@ TRANSLATED:Erreboteatzaile nagusia
 CONTEXT:basketball
 
 ENGLISH:Shot Clock
-TRANSLATED:Jaurtiketa erlojua
+TRANSLATED:Jabetza erlojua
 CONTEXT:basketball
 
 ENGLISH:Game
-TRANSLATED:Partida
+TRANSLATED:Partidu
 CONTEXT:match, match number, ex: Game 7
 
 ENGLISH:Get the full game
@@ -2219,7 +2219,7 @@ TRANSLATED:Lortu joko osoa
 CONTEXT:Imperative.Shown in demo version.
 
 ENGLISH:Goaltending
-TRANSLATED:Legez kanpoko tapoia
+TRANSLATED:Tapoi ilegala
 CONTEXT:Blocking a shot while the ball is in downward motion
 
 ENGLISH:Got it!
@@ -2263,7 +2263,7 @@ TRANSLATED:Mantendu
 CONTEXT:card held in hand
 
 ENGLISH:Hero Ball
-TRANSLATED:Berekoia
+TRANSLATED:Saskiratzaile izarra
 CONTEXT:player acting selfish and trying to win the game by themselves
 
 ENGLISH:Hidden
@@ -2295,7 +2295,7 @@ TRANSLATED:Erlojuko zenbat segundu doazen jolasten den karta bakoitzeko.
 CONTEXT:Game clock
 
 ENGLISH:Huddle
-TRANSLATED:Metatu
+TRANSLATED:Multzotu
 CONTEXT:players get together and communicate shortly
 
 ENGLISH:Human
@@ -2319,7 +2319,7 @@ TRANSLATED:Partidua berdindua badago
 CONTEXT:slowing down animations at the end of game: only if score difference is small
 
 ENGLISH:If you have the required cards in your hand or stack, {destroy:destroy} them to {boost:boost} the played card.\n\rStacked cards are {destroy:destroyed} before cards in hand.
-TRANSLATED:Beharrezko kartak badituzu eskuan edo pilatuta, {destroy:suntsitu} itzazu jolastutako karta {boost:bultzatzeko}.\nr/Pilatutako kartak eskuko kartak baino lehen suntsitzen dira.
+TRANSLATED:Beharrezko kartak badituzu eskuan edo pilatuta, {destroy:suntsitu} itzazu jolastutako karta {boost:hobetzeko}.\nr/Pilatutako kartak eskuko kartak baino lehen {destroy:suntsitzen} dira.
 CONTEXT:Lose some cards to upgrade another card.
 
 ENGLISH:Ignores blocks and always scores.\nIf the opponent fouls the shot, the card becomes {instant:instant} for that play and the player gets [card:andOne] into hand.
@@ -2327,7 +2327,7 @@ TRANSLATED:Blokeoak ekidin eta beti puntuatzen du.\nAurkariak falta egiten badu,
 CONTEXT:When the shot gets fouled, the game time stops
 
 ENGLISH:Illegal Defense
-TRANSLATED:Legez kanpoko defentsa
+TRANSLATED:Defentsa ilegala
 CONTEXT:not allowed by basketball rules
 
 ENGLISH:In hand
@@ -2371,7 +2371,7 @@ TRANSLATED:Iskin egin
 CONTEXT:Faking the drive
 
 ENGLISH:Jack of all Trades
-TRANSLATED:Edozertarako balio duena
+TRANSLATED:Edozertan aditua
 CONTEXT:card name. Idiom meaning person who is able to do a little bit of everything
 
 ENGLISH:Join the community of players
@@ -2395,11 +2395,11 @@ TRANSLATED:BLOKEATUTA
 CONTEXT:content or feature not available yet
 
 ENGLISH:Last 10
-TRANSLATED:Azke 10 partidak
+TRANSLATED:Azken 10 partiduak
 CONTEXT:In standings table. Win-Lose record in last 10 games
 
 ENGLISH:Layup
-TRANSLATED:Ahur-palazko jaurtiketa
+TRANSLATED:Bandeja
 CONTEXT:Laying the ball into the basket while being close to it.
 
 ENGLISH:Leadership
@@ -2447,7 +2447,7 @@ TRANSLATED:Zertan enfokatu beharko ginateke?
 CONTEXT:event
 
 ENGLISH:You got some tips from a legendary retired coach. What do you take away?
-TRANSLATED:Erretiratutako entrenatzaile legendario baten aholkuak jaso dituzu. Zerekin geratzen zara?
+TRANSLATED:Erretiratutako entrenatzaile ospetsu baten aholkuak jaso dituzu. Zerekin geratzen zara?
 CONTEXT:event
 
 ENGLISH:You notice some mistakes that need correcting. Select a card to destroy:
@@ -2483,7 +2483,7 @@ TRANSLATED:Entrenatzaile superargia
 CONTEXT:very smart coach
 
 ENGLISH:Matches
-TRANSLATED:Partidak
+TRANSLATED:Partiduak
 CONTEXT:games
 
 ENGLISH:Mayhem
@@ -2519,7 +2519,7 @@ TRANSLATED:Izena eta posizioa
 CONTEXT:in player rankings. Position like C,PF,SF,SG,PG
 
 ENGLISH:Need more details?
-TRANSLATED:Detaile gehiago behar?
+TRANSLATED:Xehetasun gehiago behar?
 CONTEXT:end of tutorial
 
 ENGLISH:To get more info on cards and other game elements, select the info button to toggle inspection mode.
@@ -2563,7 +2563,7 @@ TRANSLATED:Sutan
 CONTEXT:Card name. Player is On Fire when they hit consequtive shots
 
 ENGLISH:One game
-TRANSLATED:Partida bat
+TRANSLATED:Partidu bat
 CONTEXT:how many matches are played in elimination round
 
 ENGLISH:Only available in full game
@@ -2675,7 +2675,7 @@ TRANSLATED:Jokoaren bultzatzailea
 CONTEXT:Game is powered by a game engine
 
 ENGLISH:Pre game
-TRANSLATED:Aurrepartida
+TRANSLATED:Partidu aurrekoa
 CONTEXT:before the match
 
 ENGLISH:Press a key
@@ -2711,7 +2711,7 @@ TRANSLATED:Errebotea
 CONTEXT:grab a ball after opponent miss
 
 ENGLISH:Recovery
-TRANSLATED:Berreskuraketa
+TRANSLATED:Errekuperatu
 CONTEXT:card name. players recover from fatigue
 
 ENGLISH:Reduce cost of all your cards by #
@@ -2723,7 +2723,7 @@ TRANSLATED:Gutxitu efektua puntu batean. Berrezarri # {period:laurdenaren} hasie
 CONTEXT:Ex: Set to 10 (stamina)
 
 ENGLISH:Reduced whenever a card is played.\nThe game ends when the time runs out.
-TRANSLATED:Karta bat jokatzen denero gutxitzen doa.\nDenbora amaitzean partida amaitzen da.
+TRANSLATED:Karta bat jokatzen denero gutxitzen doa.\nDenbora amaitzean partidua amaitzen da.
 CONTEXT:time on game clock is reduced
 
 ENGLISH:Remove all
@@ -2807,7 +2807,7 @@ TRANSLATED:Pantaila DPIa eskalatzen
 CONTEXT:display scaling
 
 ENGLISH:Screen shake
-TRANSLATED:Pantaila astindu
+TRANSLATED:Pantaila astindua
 CONTEXT:screen camera shake effect
 
 ENGLISH:Screen
@@ -2831,7 +2831,7 @@ TRANSLATED:Aukeratu [gfx:INFO] berriz amaitzeko.
 CONTEXT:players can select objects on screen. Selecting the INFO icon again exits
 
 ENGLISH:Select a card to use in this match.
-TRANSLATED:Aukeratu partida honetan erabiltzeko karta bat.
+TRANSLATED:Aukeratu partidu honetan erabiltzeko karta bat.
 CONTEXT:add a card
 
 ENGLISH:Select a card
@@ -2879,7 +2879,7 @@ TRANSLATED:Jabetza amaiera
 CONTEXT:player error. time runs out
 
 ENGLISH:Shotclock
-TRANSLATED:Jabetza erlojua
+TRANSLATED:Jabetza
 CONTEXT:Playing a card takes 1 second from shot clock. Alternatives: Move or Play
 
 ENGLISH:Show FPS
@@ -2935,7 +2935,7 @@ TRANSLATED:Alde batera utzi
 CONTEXT:avoid doing the action or taking the card
 
 ENGLISH:Slow down at end of game
-TRANSLATED:Mantsotu partida amaieran
+TRANSLATED:Mantsotu partidu amaieran
 CONTEXT:slowing down animations at the end of game
 
 ENGLISH:Splash
@@ -2967,7 +2967,7 @@ TRANSLATED:Hasierakoa
 CONTEXT:Starter = starting 5 players, but this is a card that is important. If not a single word, use term: Essential, or: Preferred
 
 ENGLISH:{essential:Starter}
-TRANSLATED:{essential:Hasierakoak}
+TRANSLATED:{essential:Hasierakoa}
 CONTEXT:Starter = starting 5 players, but this is a card that is important. If not a single word, use term: Essential, or: Preferred
 
 ENGLISH:Stays in hand at the end of turn
@@ -3155,7 +3155,7 @@ TRANSLATED:Erabili zure eskuan karta gabe geratu edo energia gabe geratu bazara.
 CONTEXT:description for End Turn button
 
 ENGLISH:Useful when the score gap is too big and the game's already decided.
-TRANSLATED:Diferentzia oso handiaren ondorioz partida erabakita dagoenean erabilgarria da.
+TRANSLATED:Diferentzia oso handiaren ondorioz partidua erabakita dagoenean erabilgarria da.
 CONTEXT:Auto play description. When we already know the winner of match.
 
 ENGLISH:VISITOR
@@ -3199,7 +3199,7 @@ TRANSLATED:ZURE DENBORALDIA AMAITU DA
 CONTEXT:defeat
 
 ENGLISH:You can also get team cards like:\nTimeout,\nCoach Challenge\nor even Complain to the Referees\nto get a Tech.
-TRANSLATED:Honako talde kjartak ere jaso ditzakezu:\nHutsartea\nEntrenatzailearen zalantzak\nedo teknika bat lortzeko\nEpaileei kexak.
+TRANSLATED:Honako talde kartak ere jaso ditzakezu:\nHutsartea\nEpaileari erronka\nedo teknika bat lortzeko\nEpaileei kexatu.
 CONTEXT:Store page description. Tech is Technical Foul.
 
 ENGLISH:Zone Defense
@@ -3231,7 +3231,7 @@ TRANSLATED:{destroy:Suntsitu} atsedenaldian {stack:pilatuta} badago
 CONTEXT:destroy card
 
 ENGLISH:{leverage:Leverage} {Hindrance:Hindrances}
-TRANSLATED:{leverage:Berdindu} {Hindrance:Oztopoak}
+TRANSLATED:{leverage:Sakrifikatu} {Hindrance:oztopoak}
 CONTEXT:leverage all hindrances
 
 ENGLISH:{removed:Remove} your hand.
@@ -3318,7 +3318,7 @@ CONTEXT:
 ENGLISH SINGLE:# {noise:Noise} for each card in opponent stack.
 ENGLISH PLURAL:# {noise:Noise} for each card in opponent stack.
 TRANSLATED 0:{noise:Zarata} # aurkariak pilatutako karta bakoitzagatik
-TRANSLATED 1:# {noise:zarata} aurkariak pilatutako karta bakoitzagatik
+TRANSLATED 1:# {noise:Zarata} aurkariak pilatutako karta bakoitzagatik
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3329,7 +3329,7 @@ CONTEXT:
 ENGLISH SINGLE:# {noise:Noise} when drawn
 ENGLISH PLURAL:# {noise:Noise} when drawn
 TRANSLATED 0:{noise:Zarata} # hartzean
-TRANSLATED 1:# {noise:Zarata} # when hartzean
+TRANSLATED 1:# {noise:Zarata} hartzean
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3460,8 +3460,8 @@ CONTEXT:
 
 ENGLISH SINGLE:+[ADD] {shotclock:Shotclock} for every # card in your deck.
 ENGLISH PLURAL:+[ADD] {shotclock:Shotclock} for every # cards in your deck.
-TRANSLATED 0:+[ADD] {shotclock:Jaurtiketa erlojua} karta piloko # karta bakoitzeko.
-TRANSLATED 1:+[ADD] {shotclock:Jaurtiketa erlojua} karta piloko # karta bakoitzeko.
+TRANSLATED 0:+[ADD] {shotclock:Jabetzan} karta piloko # karta bakoitzeko.
+TRANSLATED 1:+[ADD] {shotclock:Jabetzan} karta piloko # karta bakoitzeko.
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3658,8 +3658,8 @@ CONTEXT:
 
 ENGLISH SINGLE:Set {shotclock:Shotclock} to #
 ENGLISH PLURAL:Set {shotclock:Shotclock} to #
-TRANSLATED 0:Jarri {shotclock:jaurtiketa erlojua} # -en
-TRANSLATED 1:Jarri {shotclock:jaurtiketa erlojua} # -(e)n
+TRANSLATED 0:Jarri {shotclock:jaubetza} # -en
+TRANSLATED 1:Jarri {shotclock:jabetza} # -(e)n
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3691,8 +3691,8 @@ CONTEXT:
 
 ENGLISH SINGLE:Whenever you play a {Defense:Defense}, draw # card
 ENGLISH PLURAL:Whenever you play a {Defense:Defense}, draw # cards
-TRANSLATED 0:Hartu karta # {Defensa:Defentsa} bat jokatzen duzunero
-TRANSLATED 1:Hartu # karta {Defensa:Defentsa} bat jokatzen duzunero
+TRANSLATED 0:Hartu karta # {Defense:defentsa} bat jokatzen duzunero
+TRANSLATED 1:Hartu # karta {Defense:defentsa} bat jokatzen duzunero
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3735,8 +3735,8 @@ CONTEXT:
 
 ENGLISH SINGLE:{discard:Discard} your {stack:stacked} [card:block] cards and get # {noise:Noise} for each one.
 ENGLISH PLURAL:{discard:Discard} your {stack:stacked} [card:block] cards and get # {noise:Noise} for each one.
-TRANSLATED 0:{discard:Baztertu} Zure {stack:Pilatutako} [card:block] kartak eta lortu {noise:zarata} # bakoitzarengatik.
-TRANSLATED 1:{discard:Baztertu} Zure {stack:Pilatutako} [card:block] kartak eta lortu # {noise:zarata} bakoitzarengatik.
+TRANSLATED 0:{discard:Baztertu} Zure {stack:pilatutako} [card:block] kartak eta lortu {noise:zarata} # bakoitzarengatik.
+TRANSLATED 1:{discard:Baztertu} Zure {stack:pilatutako} [card:block] kartak eta lortu # {noise:zarata} bakoitzarengatik.
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3746,8 +3746,8 @@ CONTEXT:
 
 ENGLISH SINGLE:{leverage:Leverage} # {Action:Action}
 ENGLISH PLURAL:{leverage:Leverage} # {Action:Actions}
-TRANSLATED 0:{leverage:Berdindu} {Action:ekintza} #
-TRANSLATED 1:{leverage:Berdindu} # {Action:ekintza}
+TRANSLATED 0:{leverage:Sakrifikatu} {Action:ekintza} #
+TRANSLATED 1:{leverage:Sakrifikatu} # {Action:ekintza}
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3757,8 +3757,8 @@ CONTEXT:
 
 ENGLISH SINGLE:{leverage:Leverage} # {Assist:Assist}.
 ENGLISH PLURAL:{leverage:Leverage} # {Assist:Assists}.
-TRANSLATED 0:{leverage:Berdindu} {Assist:Asistentzia} #.
-TRANSLATED 1:{leverage:Berdindu} # {Assist:Asistentzia}.
+TRANSLATED 0:{leverage:Sakrifikatu} {Assist:Asistentzia} #.
+TRANSLATED 1:{leverage:Sakrifikatu} # {Assist:Asistentzia}.
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3768,8 +3768,8 @@ CONTEXT:
 
 ENGLISH SINGLE:{leverage:Leverage} # {Hindrance:Hindrance}.
 ENGLISH PLURAL:{leverage:Leverage} # {Hindrance:Hindrances}.
-TRANSLATED 0:{leverage:Berdindu} {Hindrance:oztopo} #.
-TRANSLATED 1:{leverage:Berdindu} # {Hindrance:Oztopo}.
+TRANSLATED 0:{leverage:Sakrifikatu} {Hindrance:oztopo} #.
+TRANSLATED 1:{leverage:Sakrifikatu} # {Hindrance:Oztopo}.
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3779,8 +3779,8 @@ CONTEXT:
 
 ENGLISH SINGLE:{leverage:Leverage} # {Team:Team} card
 ENGLISH PLURAL:{leverage:Leverage} # {Team:Team} cards
-TRANSLATED 0:{leverage:Berdindu}  {Team:talde} karta #
-TRANSLATED 1:{leverage:Berdindu} # {Team:talde} karta
+TRANSLATED 0:{leverage:Sakrifikatu}  {Team:talde} karta #
+TRANSLATED 1:{leverage:Sakrifikatu} # {Team:talde} karta
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3823,7 +3823,7 @@ CONTEXT:
 
 ENGLISH SINGLE:{removed:Remove} up to # card from your draw pile.
 ENGLISH PLURAL:{removed:Remove} up to # cards from your draw pile.
-TRANSLATED 0:{removed:Kendu} karta # erarte zure hartzeko pilotik.
+TRANSLATED 0:{removed:Kendu} karta #erarte zure hartzeko pilotik.
 TRANSLATED 1:{removed:Kendu} # kartararte zure hartzeko pilotik.
 TRANSLATED 2:
 TRANSLATED 3:
@@ -3845,8 +3845,8 @@ CONTEXT:time
 
 ENGLISH SINGLE:+# {shotclock:Shotclock}
 ENGLISH PLURAL:+# {shotclock:Shotclock}
-TRANSLATED 0:+# {shotclock:Jaurtiketa erlojua}
-TRANSLATED 1:+# {shotclock:Jaurtiketa erlojua}
+TRANSLATED 0:+# {shotclock:Jabetzan}
+TRANSLATED 1:+# {shotclock:Jabetzan}
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3966,7 +3966,7 @@ CONTEXT:Ex. selected 3 of 8-10 teams (1 computer, 2 player)
 
 ENGLISH SINGLE:TOP TEAM
 ENGLISH PLURAL:TOP # TEAMS
-TRANSLATED 0:TALDE ONENA
+TRANSLATED 0:# TALDE ONENAK
 TRANSLATED 1:# TALDE ONENAK
 TRANSLATED 2:
 TRANSLATED 3:
