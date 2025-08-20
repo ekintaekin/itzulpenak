@@ -145,7 +145,7 @@ Kargak solairua amaitzean galtzen dira."
 
 Kargak solairua gainditzean galtzen dira."
 "Main/FloorGauntletMessage","Erronka amaigabeko {FLOOR} solairua"
-"Main/FloorMessage","{FLOORS}tik {FLOOR}. solairua"
+"Main/FloorMessage","{FLOOR}/{FLOORS} solairua"
 "Main/GameOver","Hil egin zara..."
 "Main/GameOverGauntlet","Ohorez hil zen"
 "Main/Gold","Urrea"
@@ -156,7 +156,7 @@ Kargak solairua gainditzean galtzen dira."
 "Main/HeartDescription","Hobe hauek gabe ez geratzea."
 "Main/Move","Mugitu"
 "Main/MoveDescription","Kartak jokatzeko beharrezkoa."
-"Main/NextFloorInfo","Hurrengo solairua: {FLOORS} tik {FLOOR}. a"
+"Main/NextFloorInfo","Hurrengo solairua: {FLOOR}/{FLOORS}"
 "Main/NextFloorInfoFinal","Hurrengo erronka Azkena da"
 "Main/RunInfo","{CHARACTER}
 {DUNGEON}
