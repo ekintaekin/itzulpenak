@@ -1,0 +1,466 @@
+"! language name in that language","Euskara"
+"Chain/0","0 Katea"
+"Chain/0Description","Zailtasun gehiturik gabe."
+"Chain/1","I Katea"
+"Chain/10","X Katea (Max)"
+"Chain/10Description","Azken nagusiek kalte bikoitza eragiten dute."
+"Chain/1Description","Erronka zailagoak."
+"Chain/2","II Katea"
+"Chain/2Description","Atzean uzten dituzun laukietan <style=""Red"">Kiratsa</style> uzten duzu."
+"Chain/3","III Katea"
+"Chain/3Description","Erronka zailagoak."
+"Chain/4","IV Katea"
+"Chain/4Description","Hobekuntzak garestiagoak dira."
+"Chain/5","V Katea"
+"Chain/5Description","Erronka zailagoak."
+"Chain/6","VI Katea"
+"Chain/6Description","Bi <b>Bizitzarekin</b> bakarrik hasten zara."
+"Chain/7","VII Katea"
+"Chain/7Description","Erronka zailagoak."
+"Chain/8","VIII Katea"
+"Chain/8Description","Alboetako zutabeak <style=""Red"">Kiratsa</style>rekin hasten dira."
+"Chain/9","IX Katea"
+"Chain/9Description","Erronka zailagoak."
+"Credits/Art","Artea"
+"Credits/Design_Programming","Diseinu eta Programazioa"
+"Credits/Music_Sound","Musika eta Soinua"
+"Credits/Thanks","Esker bereziak"
+"Credits/ThanksFeedback","Hasierako bertsioak jokatu, iritzia trukatu edo babestu ninduten guztiei. Onenak zarete <3"
+"Credits/Tools","Honekin sortuta"
+"Credits/Translation","Itzulpena"
+"Dungeon/Caves","Goblin Haitzuloak"
+"Dungeon/CavesFlavor","Rook Ridgeren sakonean ezkutatutako gordeleku kirastu bat. Goblin beldurgarrien eta beste izaki anker batzuen etxea, Kiratsak poliki-poliki usteltzen dituenak."
+"Dungeon/Fortress","Golem Gotorlekua"
+"Dungeon/FortressFlavor","Antzinako bastioi honen sarreratik gertu, Chatu mendikatearen sakonean, inskripzio errunikoa dago: TENTSIO ALTUA. KANPOAN MANTENDU"
+"Dungeon/Tutorial","Tutorial Irla"
+"Dungeon/TutorialFlavor","Eskaini zure burua jauregitxo abandonatu hau garbitzeko eta, zorte ona baduzu, leku arriskutsuagoetan moldatzen ikasiko duzu."
+"Dungeon/Void","Santutegi Lohia"
+"Dungeon/VoidFlavor","Tenplu beldurgarri honek Amildegi Kirasdunera doan atari bat du, eta noizean behin mota guztietako izugarrikeria ultzeradun, tentakular eta puntadunak isurtzen ditu handik."
+"EnemyType/BlightHeart","Bihotz Nazkagarria"
+"EnemyType/BlightHeartFlavor","Mundua kiratsez betetzea du helburu bakartzat."
+"EnemyType/BlightImp","Deabru Kirasduna"
+"EnemyType/BlightImpFlavor","Sinetsi dezakezu pertsona batzentzat maitagarriak diruditela?"
+"EnemyType/BlightMatron","Emagin Kirasduna"
+"EnemyType/BlightMatronFlavor","Kiratsetik sorturiko munstro beldurgarria. Kontuz jariakinekin!"
+"EnemyType/Blightsack","Kirats zakua"
+"EnemyType/BlightsackFlavor","Masa Kirasdun handi eta uhindua."
+"EnemyType/Capybear","Kapihartza"
+"EnemyType/CapybearBlighted","Kapihartz Kirasduna"
+"EnemyType/CapybearBlightedFlavor","Kapihartzei gauza desatseginak jatea gustatzen zaie, baina hau hurrunegi joan da."
+"EnemyType/CapybearFlavor","Haragi gosea duen karraskari erraldoia"
+"EnemyType/CapybearGolem","Kapihartz Golema"
+"EnemyType/CapybearGolemFlavor","Xakearen Lurretako jostailu horren antz handia du, baina askoz ere arriskutsuagoa da."
+"EnemyType/CapybearHorned","Kapihartz Adarduna"
+"EnemyType/CapybearHornedFlavor","Taldearen abangoardia. Adar horiek ez dira erakusteko soilik."
+"EnemyType/CoilGolem","Haril Golema"
+"EnemyType/CoilGolemFlavor","Min gehien egiten duen lekuan kondentsatzen du airearen indarra"
+"EnemyType/DemonGolem","Deabruzko Golema"
+"EnemyType/DemonGolemFlavor","Aldi berean ezagutza debekatuaren adar gehiegitan barneratu zen ingeniari ohi baten lana."
+"EnemyType/GauntletGate","Erronkaren Atea"
+"EnemyType/GauntletGateFlavor","Ziegaren zatirik sakonenak antzinako magiarekin zigilatuta daude. Hemendik aurrera heriotza besterik ez duzu zain, baina agian hori da bilatzen duzuna."
+"EnemyType/GauntletPillar","Erronkaren Pilarea"
+"EnemyType/GauntletPillarFlavor","Zigilu babeslez estalia."
+"EnemyType/GoblinArcher","Goblin Arkularia"
+"EnemyType/GoblinArcherFlavor","Urrundik traba gehiago egin dezakeela konturatu zen."
+"EnemyType/GoblinBlightbearer","Goblin Nazkagarria"
+"EnemyType/GoblinBlightbearerFlavor","Kiratsaren aurrean amore eman zuen goblin gazte bat, botere gosez seguruenik."
+"EnemyType/GoblinBlightvessel","Usteltasun eramaile den goblina"
+"EnemyType/GoblinBlightvesselFlavor","Xaman zaharra, Kiratsaren botere negargarrietarako kanal bat."
+"EnemyType/GoblinCultist","Goblin Sektarioa"
+"EnemyType/GoblinCultistFlavor","Ikaragarria hiru egur zatitxo eta 4cc kapihartz odol baliatuta goblin batek lor dezakeena."
+"EnemyType/GoblinGunner","Goblin Artillaria"
+"EnemyType/GoblinGunnerFlavor","Nola edo hala moldatu zen kanoi bat lehertu gabe muntatzeko."
+"EnemyType/GoblinShaman","Goblin Xamana"
+"EnemyType/GoblinShamanFlavor","Bere ahalmen magiko ezkutua aprobetxatzea lortu zuen goblin bat."
+"EnemyType/GoblinSkirmisher","Goblin liskartia"
+"EnemyType/GoblinSkirmisherFlavor","Metal zati zorrotz bati eusten dion tentel desatsegin eta iheskorra."
+"EnemyType/GoblinTinkerer","Goblin Artisaua"
+"EnemyType/GoblinTinkererFlavor","Gotorlekuko antzinako tramankuluen gaineko ezagutza sakona du."
+"EnemyType/GoblinWarrior","Goblin Gerlaria"
+"EnemyType/GoblinWarriorFlavor","Eskarmentu handiko goblin honek landu gabeko armadurak jantzi ditzake abiadura galdu gabe."
+"EnemyType/GuardGolem","Golem Zaintzailea"
+"EnemyType/GuardGolemFlavor","Eternalki Gotorlekuko gelak zaintzen."
+"EnemyType/KingGolem","Golem Erregea"
+"EnemyType/KingGolemFlavor","Jatorrizko biztanleak desagertu zirenean, Gotorlekuak berak sortu zuen Erregea."
+"EnemyType/KnightGolem","Golem Zaldia"
+"EnemyType/KnightGolemFlavor","Ahal duzun guztia egin zure ezpata besoen zurrunbilo gupidagabea saihesteko."
+"EnemyType/Kraken","Amildegi Kirasduneko Krakena"
+"EnemyType/KrakenFlavor","Piztirik piztiena!"
+"EnemyType/KrakenTentacle","Krakenaren Garroak"
+"EnemyType/KrakenTentacleFlavor","Piztien arteko piztia - Puskatxoak!"
+"EnemyType/Snakepaca","Sugepaka"
+"EnemyType/SnakepacaFlavor","Sugepakaren listua korrosiboa da, ez toxikoa. Egizu datu honen inguruko gogoeta zure aurpegia urtzen den bitartean."
+"EnemyType/SparkImp","Txinparta diabolikoa"
+"EnemyType/SparkImpFlavor","Haien jatorria ez dago argi, baina jakina da Golemak gertu daudenean beti agertzen direla."
+"EnemyType/SpewerGolem","Golem Okaztatzailea"
+"EnemyType/SpewerGolemFlavor","Beharbada Kiratsari segurtasunez eusteko erabiltzen zen, ezinbestean ustelduta amaitu zuen arte."
+"EnemyType/Spidertoad","Armiarma Zapoa"
+"EnemyType/SpidertoadFlavor","Ez da bereziki erasokorra... Beste kontinente batean zauden bitartean behintzat."
+"EnemyType/VoidImp","Hutsuneko Deabrutxoa"
+"EnemyType/VoidImpFlavor","Maltzurki barre egitea da bere zaletasunetako bat."
+"EnemyType/Ward","Babesa"
+"EnemyType/WardFlavor","Eguzkipean egotea bezala."
+"Keys/HeroAction","Pertsonaiaren Ekintza"
+"Keys/SelectCard1","Aukeratu 1 Karta"
+"Keys/SelectCard2","Aukeratu 2 Karta"
+"Keys/SelectCard3","Aukeratu 3 Karta"
+"Keys/EndTurn","Txanda Amaitu"
+"Gamepad/PreviousCard","Aurreko Karta aukeratu"
+"Gamepad/NextCard","Hurrengo Karta Aukeratu"
+"Gamepad/Navigate","Laukia Aukeratu"
+"Gamepad/Menu","Menua ireki"
+"Gamepad/EndTurn","Txanda Amaitu aukeratu"
+"Gamepad/Action","Pertsonaiaren Ekintza aukeratu"
+"Gamepad/Deselect","Guztia desautatu"
+"Gamepad/Cursor","Kurtsore birtuala"
+"Gamepad/Confirm","Mugitu / Konfirmatu"
+"Main/BerserkerCounter","Haserrea"
+"Main/BerserkerCounterDescription","Irabazi karga bat jasotzen duzun min puntu bakoitzeko.
+
+Kontsumitu karga bat karta bat jokatzen duzun aldi bakoitzean <nobr>
+<sprite=""upgrades"" name=""cantrip""> <b>Sorginkeria</b></nobr> bat aktibatzeko.
+
+Kargak solairua amaitzean galtzen dira."
+"Main/Crystal","Odol-kristala"
+"Main/CrystalDescription","Kaltetutako <b>bihotz</b> bat sendatzen du."
+"Main/Deck","Karta piloa"
+"Main/DeckDescription","Zure karta-piloaren edukia. Ez du uneko ordena erakusten."
+"Main/Discard","Baztertuak"
+"Main/DiscardDescription","Baztertuen piloko edukia."
+"Main/EndTurn","Txanda Amaitu"
+"Main/EndTurnDescription","Erabili gabeko mugimenduak galtzen dituzu."
+"Main/ExtraAction","Dragoi tanta"
+"Main/ExtraActionDescription","Mugimendu bat gastatu du eta karga guztiak kontsumitu efektu aplikagarri guztiak aktibatzeko.
+
+0+: <sprite=""upgrades"" name=""shield""> <b>Ezkutua</b> eta koroatu karta bat.
+
+1+: <sprite=""upgrades"" name=""splash-diagonal""> <b>Zipriztin Diagonala</b>.
+
+2+: <sprite=""upgrades"" name=""splash-orthogonal""> <b>Zipriztin Kardinala</b>.
+
+3+: <sprite=""upgrades"" name=""cantrip""> <b>Sorginkeria</b>
+(3 karta baina gutxiago badituzu, hartu karta bat)
+
+4+: <sprite=""upgrades"" name=""shield""> <b>Ezkutua</b> 3tik gora duzun karga bakoitzeko.
+
+Kargak solairua gainditzean galtzen dira."
+"Main/FloorGauntletMessage","{FLOOR} erronka solairua"
+"Main/FloorMessage","{FLOORS}tik {FLOOR}. solairua"
+"Main/GameOver","Hil egin zara..."
+"Main/GameOverGauntlet","Ohorez hil zen"
+"Main/Gold","Urrea"
+"Main/GoldBag","Urre poltsa"
+"Main/GoldBagDescription","Gorde zure <style=""Gold"">Urrea</style>. Jaso eskuineko guztia maila bat gainditu ostean."
+"Main/GoldDescription","Distiratsua!"
+"Main/Heart","Bihotza"
+"Main/HeartDescription","Hobe hauek gabe ez geratzea."
+"Main/Move","Mugitu"
+"Main/MoveDescription","Kartak jokatzeko beharrezkoa."
+"Main/NextFloorInfo","Hurrengo solairua: {FLOORS} tik {FLOOR}. a"
+"Main/NextFloorInfoFinal","Hurrengo erronka Azkena da"
+"Main/RunInfo","{CHARACTER}
+{DUNGEON}
+{FLOOR} erronka"
+"Main/RunInfoGauntlet","{CHARACTER}
+{DUNGEON}
+{FLOOR} erronka"
+"Main/RunInfoShop","{CHARACTER}
+{DUNGEON}
+{FLOOR} Erronka denda"
+"Main/RunInfoVictory","{CHARACTER}
+{DUNGEON}
+garaipenaren solairua"
+"Main/Shield","Ezkutua"
+"Main/ShieldDescription","<b>Bihotzak</b> baino lehen jasotzen du mina."
+"Main/Stuck","Trabatuta!"
+"Main/StuckDescription","Ezin da kartarik jolastu."
+"Main/TotalDamage","{TOTAL_DAMAGE_TAKEN} puntuko mina hartu duzu eta ezkutuak {TOTAL_DAMAGE_SHIELDED} puntuko babesa eman dizu."
+"Main/TotalKills","{TOTAL_KILLS} munstrotzar akabatu dituzu."
+"Main/TotalTurns","{TOTAL_TURNS} txanda erabili dituzu."
+"Main/UnlockedChain","¡{CHAIN} desblokeatuta!"
+"Main/UnlockedCharacters","Pertsonaia guztiak desblokeatuta!"
+"Main/Victory","Garaipena!"
+"Main/Webbed","Harrapatua!"
+"Main/WebbedDescription","Hurrengo txandan 2 karta bakarrik hartu."
+"Menu/Back","Atzera"
+"Menu/ChainHint","Menderatu Maila honetako ziega guztiak desblokeatzeko!"
+"Menu/ClickAgain","Egin klik berriro"
+"Menu/Continue","Jarraitu"
+"Menu/ContinueInfo","{CHARACTER}, {DUNGEON}, {FLOOR} erronka"
+"Menu/ContinueInfoGauntlet","{CHARACTER}, {DUNGEON}, {FLOOR} erronka"
+"Menu/ContinueInfoShop","{CHARACTER}, {DUNGEON}, {FLOOR} erronka denda"
+"Menu/ContinueInfoVictory","{CHARACTER}, {DUNGEON}, Azken Erronka"
+"Menu/Credits","Kredituak"
+"Menu/DungeonConquered","Menderatua!"
+"Menu/DungeonIntro","{CHARACTER} hemen sartzera doa..."
+"Menu/DungeonNotConquered","Menderatu gabea"
+"Menu/ExamineBoard","Taula aztertu"
+"Menu/ExistingRunInfo","Egungo aurrerapena galdu egingo da."
+"Menu/Exit","Irten"
+"Menu/ExitToDesktop","Mahaigainera irten"
+"Menu/ExitToMenu","Erronka bertan behera utzi"
+"Menu/GameOverExit","Menura irten"
+"Menu/GameOverRestart","Ziega berriz hasi"
+"Menu/Keys","Teklatuaren kontrolak"
+"Menu/Gamepad","Agintearen kontrolak"
+"Menu/Display","Pantaila"
+"Menu/LockedInDemo","Ez dago eskuragarri demoan."
+"Menu/LockedInDemoChain","10 maila-aldagailu metagarri baino gehiago bertsio osoan!"
+"Menu/NewGame","Partida Berria"
+"Menu/RebindInfo","Klik berresleitzeko."
+"Menu/ResetDefaults","Berrezarri jatorrizko balioak"
+"Menu/SaveInfo","Maila bakoitzaren hasieran zure aurrerapena automatikoki gordetzen da."
+"Menu/Settings","Ezarpenak"
+"Menu/StartRun","Hasi"
+"Mobile/Buy","Joko osoa erosi"
+"Mobile/BuyConfirm","{PRICE}gatik erosi"
+"Mobile/BuyRestore","Berrezarri -Dagoeneko erosia"
+"Mobile/ConnectionBroken","Ezin izan da {STORE}ra konektatu. Joko osoa erosteko ziurtatu interneteko konexio egonkorra duzula, gero behartu ixtea eta berriz abiatu jokoa. Zure telefonoa berrabiarazten ere saia zaitezke, edo geroago saiatzen. Barkatu eragozpenak!{ICON}"
+"Mobile/Features","Joko osoaren ezaugarriak:
+
+<sprite=""chess-pieces"" name=""pawn""> 3 Ziega gai eta etsai ezberdinekin
+
+<sprite=""chess-pieces"" name=""knight""> 6 heroi, jokatzeko modu bereizgarriekin
+
+<sprite=""chess-pieces"" name=""queen"">10 Kate zailtasun modifikatzaile maila
+
+<sprite=""chess-pieces"" name=""king""> Erronka amaiezineko modua ziega bat menderatu ostean"
+"Mobile/Tutorial/1_Welcome","Ongi etorri Pawnbarianera! Luze sakatu edozer deskribapen bat ikusteko.
+
+Txanda bakoitzean, zure heroiarekin mugitzeko eta erasotzeko kartak jokatuko dituzu, erakutsitako xake piezaren patroi berarekin.
+
+Txanda bakoitzean 2 mugimendu dituzu, taularen azpian eskuineko aldean agertzen direnak. Normalean, ausazko 3 kartaren artean aukeratuko duzu zer jokatu.
+
+Mugitzeko, ukitu karta bat, eta, ondoren, taulan <style=""Gold"">markatuta</style> dagoen lauki bat.
+
+Jolastu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
+"Piece/ChessBishop","Alfila"
+"Piece/ChessBishopDescription","Mugitu nahi adina lauki diagonalki eta erasotu."
+"Piece/ChessKing","Erregea"
+"Piece/ChessKingDescription","Mugitu nahi adina lauki kardinalki edo diagonalki."
+"Piece/ChessKnight","Zaldia"
+"Piece/ChessKnightDescription","Egin salto eta erasotu lauki bat horizontal eta bertikalki eta beste bat diagonalki mugitzen."
+"Piece/ChessPawn","Peoia"
+"Piece/ChessPawnDescription","Mugitu lauki bat aurrera. edo erasotu lauki bat diagonalki aurrera egiten."
+"Piece/ChessQueen","Dama"
+"Piece/ChessQueenDescription","Mugitu nahi beste lauki kardinaki eta diagonalki eta erasotu."
+"Piece/ChessRook","Dorrea"
+"Piece/ChessRookDescription","Mugitu nahi beste lauki kardinalki eta erasotu."
+"Piece/Demotes","Degradatu <b>{PIECE}</b>ra"
+"Piece/FairyBear","Hartza"
+"Piece/FairyBearDescription","Egin salto eta erasotu bi laukiko distantziara dagoen edozein lauki."
+"Piece/FairyGhost","Mamua"
+"Piece/FairyGhostDescription","Egin salto edozein lauki hutsetara."
+"Piece/FairyHawk","Belatza"
+"Piece/FairyHawkDescription","Egin salto eta erasotu kardinal edo diagonalki bi edo hiru laukiko distantziara dagoen edozein laukitara."
+"Piece/Promotes","<b>{PIECE}</b>ra koroatzen da"
+"Piece/ShogiBishop","Alfila"
+"Piece/ShogiBishopDescription","Mugitu nahi adina lauki diagonalki eta erasotu."
+"Piece/ShogiDragonHorse","Dragoi Zaldia"
+"Piece/ShogiDragonHorseDescription","Mugitu eta erasotu nahi beste lauki diagonalki, edo lauki bat kardinalki."
+"Piece/ShogiDragonKing","Dragoi Erregea"
+"Piece/ShogiDragonKingDescription","Mugitu eta erasotu nahi beste lauki kardinalki, edo bat diagonalki."
+"Piece/ShogiGoldGeneral","Urrezko Generala"
+"Piece/ShogiGoldGeneralDescription","Mugitu eta erasotu lauki bat aurrera, kardinalki edo diagonalki."
+"Piece/ShogiKing","Erregea"
+"Piece/ShogiKingDescription","Mugitu nahi adina lauki kardinalki edo diagonalki."
+"Piece/ShogiKnight","Zaldia"
+"Piece/ShogiKnightDescription","Mugitu eta erasotu lauki bat aurrera, gero diagonalean aurrera, bidean duzun edozer gauzaren gainetik salto eginez."
+"Piece/ShogiLance","Lantzaria"
+"Piece/ShogiLanceDescription","Mugitu edo erasotu nahi beste lauki aurrera egiten."
+"Piece/ShogiPawn","Peoia"
+"Piece/ShogiPawnDescription","Mugitu eta erasotu lauki bat aurrera egiten."
+"Piece/ShogiPromotedKnight","Zaldi Koroatua"
+"Piece/ShogiPromotedKnightDescription","Mugitu edo erasotu kardinal edo diagonalki lauki bat aurrera egiten."
+"Piece/ShogiPromotedLance","Lantzari Koroatua"
+"Piece/ShogiPromotedLanceDescription","Mugitu eta erasotu lauki bat aurrera, kardinalki edo diagonalki."
+"Piece/ShogiPromotedPawn","Peoi Koroatua"
+"Piece/ShogiPromotedPawnDescription","Mugitu eta erasotu lauki bat aurrera, kardinalki edo diagonalki."
+"Piece/ShogiPromotedSilver","Zilar Koroatua"
+"Piece/ShogiPromotedSilverDescription","Mugitu eta erasotu lauki bat aurrera, kardinalki edo diagonalki."
+"Piece/ShogiRook","Dorrea"
+"Piece/ShogiRookDescription","Mugitu nahi beste lauki kardinalki eta erasotu."
+"Piece/ShogiSilverGeneral","Zilarrezko Jenerala"
+"Piece/ShogiSilverGeneralDescription","Mugitu edo erasotu kardinal edo diagonalki lauki bateko distantzian."
+"PlayerType/Cleric","Mistikoa"
+"PlayerType/ClericFlavor","Armadurarik ez eraman arren, borroka-zelaia onik zeharka dezaketen izpiritu adiskidetsuak."
+"PlayerType/ClericRules","Ezin duzu <nobr><sprite=""upgrades"" name=""shield""><b>Ezkutua</b></nobr> erosi, baina <nobr><sprite=""upgrades"" name=""purify""><b>Garbiketa</b></nobr> eros dezakezu.
+
+Txanda bakoitzeko lehen mugimenduak <b>Babesa</b> uzten du."
+"PlayerType/Berserker","Kapiserker"
+"PlayerType/BerserkerFlavor","Berebiziko indar primitiboa eta gauza bitxiak jateko joera? Dena dauka izaki honek."
+"PlayerType/BerserkerRules","Ezin duzu <nobr><sprite=""upgrades"" name=""cantrip""><b>sorginkeriarik</b></nobr> erosi. <b>Amorrua</b> lortzen duzu mina hartzean, eta <nobr><sprite=""upgrades"" name=""cantrip""><b>sorginkeriak</b></nobr> aktibatzeko kontsumitzen duzu.
+
+Lortzen duzun hirugarren <style=""Gold"">urrezko</style> pieza bakoitza <style=""Red"">kristal</style> bihurtuko da."
+"PlayerType/KnightTemplar","Zaldun Tenplarioa"
+"PlayerType/KnightTemplarFlavor","Gerlari sakratu erraldoia, bere dohain jainkotiarra borroka estilo metodikoarekin konbinatzen duena."
+"PlayerType/KnightTemplarRules","Ezin duzu <nobr><sprite=""upgrades"" name=""cantrip""> <b>Sorginkeriarik</b></nobr> erosi, Baina <nobr><sprite=""upgrades"" name=""purify""> <b>Garbiketa</b></nobr> eros dezakezu.
+
+Aktibatu<nobr><sprite=""upgrades"" name=""cantrip""> <b>sorginkeriak</b></nobr> txanda berean bi <nobr><sprite=""chess-pieces"" name=""knight""> <b>zaldi</b></nobr> jokatzen diren bakoitzean."
+"PlayerType/NeedsUnlock","Menderatu edozein ziega <b>Pawnbarianarekin</b> hau desblokeatzeko."
+"PlayerType/Nomad","Nomada"
+"PlayerType/NomadFlavor","Xake Lurretan barrena dabil, bere lagun leial hegodunaren ondoan arku apaindu bat eskuan duela."
+"PlayerType/NomadRules","Zuzenean etsai bat helburu duten erasoak <b>urrunekoak</b> dira."
+"PlayerType/Pawnbarian","Pawnbariana"
+"PlayerType/PawnbarianFlavor","Iparraldeko Xakearen Lurretako borrokalari adoretsua, uneoro erronka berri baten bila."
+"PlayerType/PawnbarianRules","Koroatu azken ilarara mugitzen zaren aldiro edo 3 <nobr><sprite=""chess-pieces"" name=""pawn""><b>Peoi</b></nobr> dituzunean eskuan."
+"PlayerType/Shogun","Shoguna"
+"PlayerType/ShogunFlavor","Soldadu beldurgarri honek Xakearen Lurretan guztiz ezezaguna den arte martzial bat erabiltzen du."
+"PlayerType/ShogunRules","Koroatu karta bat txanda bakoitzeko zure lehen mugimenduan.
+
+<b>Dragoi Tanta</b> ekintza bat erabil dezakezu, zeina arerio bat mugimendu normal batekin hiltzen duzunero kargatzen den."
+"Settings/EffectsVolume","Efektuen Bolumena"
+"Settings/MasterVolume","Bolumen Nagusia"
+"Settings/MusicVolume","Musikaren Bolumena"
+"Settings/Language","Hizkuntza (Berrabiarazi egin behar da)"
+"Settings/No","Ez"
+"Settings/ScreenMode","Pantaila Modua"
+"Settings/ScreenMode/ExclusiveFullScreen","Pantaila osoa"
+"Settings/ScreenMode/FullScreenWindow","Ertzik gabeko pantaila osoa"
+"Settings/ScreenMode/Windowed","Leihoa"
+"Settings/ScreenResolution","Jokoaren Bereizmena"
+"Settings/FPSMode","Fotograma muga"
+"Settings/FPSMode/VSync1","Vsync % 100"
+"Settings/FPSMode/VSync2","Vsync % 50"
+"Settings/FPSMode/VSync3","Vsync % 33"
+"Settings/FPSMode/Soft1","Helburua % 100"
+"Settings/FPSMode/Soft2","Helburua % 50"
+"Settings/FPSMode/Soft3","Helburua % 33"
+"Settings/ShowSquareNotation","Taularen koordenadak erakutsi"
+"Settings/ShowGamepadHints","Iradokizunen botoia erakutsi"
+"Settings/Yes","Bai"
+"Shop/BuyingInstructionGold","Egin salto lauki honetara eta ordaindu <style=""Gold"">{COST} Urrezko txanpon</style> erosteko."
+"Shop/NotEnoughGold","Ez duzu nahikoa <style=""Gold"">Urre</style>!"
+"Shop/UpgradeInfo","Hobetu zure {INLINE_CARD}<b>{CARD_NAME}</b> honekin:"
+"TileInfo/DamageWithBlight","<b>{DAMAGE}</b>ko mina ({BLIGHT}<style=""Red"">Kiratsagatik</style>)."
+"TileInfo/DamageWithoutBlight","<b>{DAMAGE}</b>ko mina."
+"TileInfo/NoDamage","Lauki honetan minik gabe."
+"TileInfo/Portal","<style=""h1"">Irteera Ataria</style>
+Gozo hartu atseden."
+"TileInfo/Stairs","<style=""h1"">Eskailerak</style>
+Jaitsi eta egin aurre horrore gehiagori."
+"Trait/BlightAllNeighbors","Kirats Eztanda"
+"Trait/BlightAllNeighborsDescription","Hil ostean <style=""Red"">Kiratsa</style> uzten du ondoko lauki guztietan."
+"Trait/BlightUnderSelf","Kirats Lorratza"
+"Trait/BlightUnderSelfDescription","Bi aldiz mugitzen da. Mugitzean <style=""Red"">Kiratsa</style> uzten du."
+"Trait/Brawler","Borrokalaria"
+"Trait/BrawlerDescription","<style=""Gold"">Immunea</style>, heroia alboko edozein lauki bertikal edo horizontaletan dagoen bitartean."
+"Trait/CallBlightsack","Kirats Erakarlea"
+"Trait/CallBlightsackDescription","<b>Kirats Zaku</b> bat sortzen du aldameneko lauki batean <b>Kirats Zakua</b> ez den etsai bat hiltzen den bakoitzean."
+"Trait/CallTentacle","Sakontasunetako izua"
+"Trait/CallTentacleDescription","Txanda bakoitzean behin, <b>Kraken-garro</b> bat sortzen du etsai bat hiltzean hutsik dagoen ondoko lauki batean."
+"Trait/Champion","Txapelduna"
+"Trait/ChampionDescription","Beste etsaiak bizirik dauden bitartean <style=""Gold"">immunea</style> da."
+"Trait/Grasp","Abismoaren Heldulekua"
+"Trait/GraspDescription","Heriotzaren ondoren, heroia erasoaren norabidean mugitzen da. Ezin bada, edo aldi berean hainbat aldiz aktibatzen bada, eragin min puntu 1 <b>Abismoaren Helduleku</b> bakoitzagatik."
+"Trait/Nimble","Bizkorra"
+"Trait/NimbleDescription","Posible bada, txanda bakoitzeko lehen erasoa saihesten du. (Erasoaren norabidean mugitzen da.)"
+"Trait/OnCantripAttack","Txinparta zaparrada"
+"Trait/OnCantripAttackDescription","<nobr><sprite=""upgrades"" name=""cantrip""><b>Sorginkeria</b></nobr> bat eta gero jomugan dauden laukiak erasotzen ditu."
+"Trait/OnCantripBlightAllNeighbors","Kirats Txinparta Eztanda"
+"Trait/OnCantripBlightAllNeighborsDescription","<nobr><sprite=""upgrades"" name=""cantrip""><b>Sorginkeria</b></nobr> eta gero <style=""Red"">Kiratsa</style> uzten du alboko lauki guztietan."
+"Trait/OnCantripImmune","Txinparten babesa"
+"Trait/OnCantripImmuneDescription","<nobr><sprite=""upgrades"" name=""cantrip""><b>Sorginkeria</b></nobr> bat eta gero <style=""Gold"">immunea</style> bihurtzen da hurrengo txandara arte."
+"Trait/OnCantripMove","Txinparten bidea"
+"Trait/OnCantripMoveDescription","<nobr><sprite=""upgrades"" name=""cantrip""><b>Sorginkeria</b></nobr> bat eta gero mugitzen da."
+"Trait/OnCantripSpawnCapybear","Txinparta txotxongilolaria"
+"Trait/OnCantripSpawnCapybearDescription","<nobr><sprite=""upgrades"" name=""cantrip""><b>Sorginkeria</b></nobr> bat eta gero <b>Kapihartz Golem</b> bat sortzen du hutsik dagoen alboko lauki batean."
+"Trait/OnCantripSpawnGuard","Txinparten Menderatzailea"
+"Trait/OnCantripSpawnGuardDescription","<nobr><sprite=""upgrades"" name=""cantrip""><b>Sorginkeria</b></nobr> bat eta gero <b>Babes Golema</b> edo <b>Zaldi Golema</b> sortzen du alboko lauki huts batean."
+"Trait/SpawnBlightsacksOnDiagonals","Kirats Eramalea"
+"Trait/SpawnBlightsacksOnDiagonalsDescription","Hiltzean diagonalki ondoan dituen lauki hutsetan <b>Kirats Zakua</b> sortzen du."
+"Trait/SpawnSingleBlightsack","Kirats Arteria"
+"Trait/SpawnSingleBlightsackDescription","Mugitzean <b>Kirats Zakua</b> sortzen du."
+"Trait/TriggerSpark","Golem Arima"
+"Trait/TriggerSparkDescription","Hil ostean, aktibatu <b>txinparta</b> atributu guztiak."
+"Trait/Vigilant","Adi"
+"Trait/VigilantDescription","<style=""Gold"">Immunea</style> heroia alboko laukietan ez dagoen bitartean."
+"Trait/Ward","Lur Kontsakratua"
+"Trait/WardDescription","Lauki hau ezin dute etsaiek okupatu. Sartzean 3 <nobr><sprite=""upgrades"" name=""shield""><b>Ezkutu</b></nobr> jasoko dituzu eta <b>Babesa</b> kontsumitu."
+"Trait/Webweaver","Sare ehulea"
+"Trait/WebweaverDescription","Hil ostean heroiak 2 karta besterik ez ditu hartzen hurrengo txandan."
+"Tutorial/1_Welcome","Ongi etorri Pawnbarianera! Zernahiren gainetik pasa deskribapen bat ikusteko.
+
+Txanda bakoitzean, zure heroiarekin mugitzeko eta erasotzeko kartak jokatuko dituzu, ikusten den xake piezaren patroi berarekin.
+
+Txanda bakoitzean 2 mugimendu dituzu, taularen azpian eskuineko aldean agertzen direnak. Normalean, ausazko 3 kartaren artean aukeratuko duzu zer jokatu.
+
+Mugitzeko, egin klik karta batean, eta, ondoren, taulan <style=""Gold"">markatutako</style> lauki batean.
+
+Jokatu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
+"Tutorial/1_WelcomeGamepad","Ongi etorri Pawnbarianera! Hautatu taulako lauki bat <b>norabide-teklarekin</b> edo <b>ezkerreko makilarekin</b>, deskribapen bat ikusteko.
+
+Txanda bakoitzean, zure heroiarekin mugitzeko eta erasotzeko kartak jokatuko dituzu, erakutsitako xake piezaren patroi berarekin.
+
+Txanda bakoitzean 2 mugimendu dituzu, taularen azpian eskuineko aldean agertzen direnak. Normalean, ausazko 3 kartaren artean aukeratuko duzu zer jokatu.
+
+Mugitzeko lehendabizi aukeratu karta bat <sprite=""gamepad"" name=""L""> / <sprite=""gamepad"" name=""R"">rekin. Gero joan <style=""Gold"">markatutako</style> lauki batera eta konfirmatu mugimendua <sprite=""gamepad"" name=""S"">rekin.
+
+Jokatu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
+"Tutorial/2_Damage","Mugimendurik gabe geratu ondoren, munstroen txanda da. Zure heroia erasotzen saiatuko dira, gero mugitzeko.
+
+<b>Kapihartzaren</b> min eremuan amaitu duzu txanda, horregatik erasotu eta mina eragin dizu. Koska gorriek erasopean dauden laukiak erakusten dituzte.
+
+Erabili <nobr><sprite=""chess-pieces"" name=""knight""><b>Zaldia</b></nobr> eta egin salto goiko ilarara jarraitzeko."
+"Tutorial/3_Promotion","Zure <nobr><sprite=""chess-pieces"" name=""pawn""><b>Peoietako</b></nobr> bat <nobr><sprite=""chess-pieces"" name=""queen""><b>Dama</b></nobr> bezala koroatu berri duzu.
+
+Ikusi zure heroiaren deskribapena hau nola gertatzen den azalpen zehatza lortzeko. Koroatzeko aukeratutako karta ez da ausazkoa, beti da hautagai zuzenena.
+
+Kartak jokatu arte edo solairu bat amaitu arte koroatzen dira. Ez baduzu berehala jokatzen, agian gero solairua amaitu aurretik jokatu dezakezu.
+
+Erasotu etsaiei die haiengana mugituz, xakean piezak harrapatzean bezalaxe. Hil solairuko etsai guztiak aurrera egiteko."
+"Tutorial/4_Loot","Ikusi taularen goiko aldea. Poltsak oraintxe duzun <style=""Gold"">urrea</style> erakusten du, eta horren eskuinean dagoen edozer solairua irabaztean pilatu duzun saria da. <style=""Red"">Kristalak</style> min puntu bat sendatzen du. <style=""Gold"">Urrea</style> zure poltsara doa, berehala erabiliko duzu.
+
+Txanda bakoitzean eskuinerago dagoen saria galdu egingo da, beraz txanda gutxiagotan amaitzeak sari handiagoa lortzea esan nahi du.
+
+Hiltzen duzun etsai bakoitzeko ere <style=""Gold"">urre</style> pieza bat irabazten duzu, beste etsai batek agerrarazi duenean salbu."
+"Tutorial/5_Shop","Ongi etorri dendara. Hemen <style=""Gold"">urrea</style> <b>bihotzetan</b> eta <b>hobekuntzetan</b> gasta dezakezu.
+
+Mugitu gauzen artean hauek erosteko. Dendan ez dago mugimendu-mugarik, eta mugimendu erosoa ahalbidetzen duten kartak dituzu beti.
+
+Begiratu ingurura eta erosi <b>hobekuntza</b> bat jarraitzeko."
+"Tutorial/6_Upgrades","<b>Hobekuntzak</b> karta bat jolastean aktibatuko diren ahalmen gehiarriak dira. Karta batek hainbat hobekuntza jaso ditzake.
+
+Karta pilo txiki eta itxi bat jolasten duzu, zeina hutsa geratzen den bakoitzean nahastu egingo duzun. <b>Bihotzak</b> eta <b>hobekuntzak</b> lortzen zure heroia hobetzen duzu.
+
+Erosi nahi duzun beste edozer eta joan taulako goiko ilaran eskaileretan behera jarraitzeko."
+"Tutorial/7_Final","Zure azken proba!
+
+Jokoko etsai gehienek trebetasunak dituzte, eta horregatik zure jokaldiak prestatu beharko dituzu; beraz, ziurtatu haien deskribapenak irakurtzen dituzula.
+
+Zure txanda alde batera utz dezakezu zure karten eskuinaldean daukazun botoiarekin."
+"Tutorial/7_FinalGamepad","Zure azken proba!
+
+Jokoko etsai gehienek inguruan estrategizatzeko gaitasuna dute, beraz, ziurtatu haien deskribapenak irakurri izana.
+
+Txandak saltatu ditzakezu. Hautatu aukera <sprite=""gamepad"" name=""N"">rekin eta gero konfirmatu <sprite=""gamepad"" name=""S"">rekin.
+
+Desautatu guztia<sprite=""gamepad"" name=""E"">rekin.
+
+Aurrerago ekintza berezia duen pertsonaia bat desblokeatuko duzu. Hau aukeratzeko sakatu <sprite=""gamepad"" name=""W"">."
+"Tutorial/8_Notches","Azken aholku batzuk.
+
+Lauki baten ertzetako koskek min kantitatea adierazten dute. 1, 2 edo 3 hozkak irudikatzen duzuna esan nahi dute. Garezur batek 4 min edo gehiago esan nahi du, baina ez da beti hilgarria.
+
+Pasa sagua edozein etsairen gainetik bere eraso patroia erakusteko (<b>laukiak</b> gorri bihurtzen dira).
+
+Pasa sagua edozein laukiren gainetik hau erasotzen dauden etsaiak erakusteko (<b>etsaiak</b> gorri bihurtuko dira).
+
+Etsai batzuk <style=""Red"">Kiratsa</style> uzten dute taulan. Solairua amaitu arte pilatu daitekeen eta laukian geratuko den min mota da.
+
+Hau da guztia. Zorte on!"
+"Tutorial/AvoidedDeath","Tutorialean hilezkorra zara, baina hilda egongo zinateke dagoeneko. Saiatu ahal bezain ondo jokatzen arriskutik kanpo dauden laukietan amaitzeko."
+"Tutorial/Continue","Jarraitu"
+"Upgrade/Cantrip","Sorginkeria"
+"Upgrade/CantripDescription","Ekintza bat lortu eta karta bat hartzen duzu."
+"Upgrade/DiagonalSplash","Inpaktu Diagonala"
+"Upgrade/DiagonalSplashDescription","Mugitu ondoren diagonalean dauden laukiei erasotzen die."
+"Upgrade/Life","Bihotza"
+"Upgrade/LifeDescription","Lortu bihotz bat, handitu <b>Bizitzen</b> gehienekoa eta atzeratu zure desagerpena."
+"Upgrade/OrthogonalSplash","Inpaktu Kardinala"
+"Upgrade/OrthogonalSplashDescription","Mugitu ondoren, aldameneko lauki horizontalei eta bertikalei erasotzen die."
+"Upgrade/Purify","Garbiketa"
+"Upgrade/PurifyDescription","Kendu 3 <style=""Red"">Kirats</style> puntu lurreratu zaren laukitik. (Aurkarien atributu guztiak eta gero aktibatzen da.)"
+"Upgrade/Shield","Ezkutua"
+"Upgrade/ShieldDescription","Kalte-puntu bat hartzen du txanda honetan."
+"Upgrade/Splash","Inpaktua"
