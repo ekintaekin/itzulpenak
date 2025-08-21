@@ -3,7 +3,7 @@
 "Chain/0Description","Zailtasun gehiturik gabe."
 "Chain/1","I Katea"
 "Chain/10","X Katea (Max)"
-"Chain/10Description","Azken nagusiek kalte bikoitza eragiten dute."
+"Chain/10Description","Azken nagusiek min bikoitza eragiten dute."
 "Chain/1Description","Erronka zailagoak."
 "Chain/2","II Katea"
 "Chain/2Description","Atzean uzten dituzun laukietan <style=""Red"">Kiratsa</style> uzten duzu."
@@ -122,9 +122,9 @@ Kontsumitu karga bat karta bat jokatzen duzun aldi bakoitzean <nobr>
 
 Kargak solairua amaitzean galtzen dira."
 "Main/Crystal","Odol-kristala"
-"Main/CrystalDescription","Kaltetutako <b>bihotz</b> bat sendatzen du."
+"Main/CrystalDescription","Mina jaso duen <b>bihotz</b> bat sendatzen du."
 "Main/Deck","Karta piloa"
-"Main/DeckDescription","Zure karta-piloaren edukia. Ez du uneko ordena erakusten."
+"Main/DeckDescription","Zure karta-piloaren edukia. Ez du benetako ordena erakusten."
 "Main/Discard","Baztertuak"
 "Main/DiscardDescription","Baztertuen piloko edukia."
 "Main/EndTurn","Txanda Amaitu"
@@ -329,12 +329,13 @@ Aktibatu<nobr><sprite=""upgrades"" name=""cantrip""> <b>sorginkeriak</b></nobr> 
 "Settings/ShowSquareNotation","Taularen koordenadak erakutsi"
 "Settings/ShowGamepadHints","Iradokizunen botoia erakutsi"
 "Settings/Yes","Bai"
-"Shop/BuyingInstructionGold","Egin salto lauki honetara eta ordaindu <style=""Gold"">{COST} Urrezko txanpon</style> erosteko."
+"Shop/BuyingInstructionGold","Egin salto lauki honetara eta ordaindu <style=""Gold"">{COST} Urrezko pieza</style> hobekuntza erosteko."
 "Shop/NotEnoughGold","Ez duzu nahikoa <style=""Gold"">Urre</style>!"
 "Shop/UpgradeInfo","Hobetu zure {INLINE_CARD}<b>{CARD_NAME}</b> honekin:"
-"TileInfo/DamageWithBlight","<b>{DAMAGE}</b>ko mina ({BLIGHT}<style=""Red"">Kiratsagatik</style>)."
-"TileInfo/DamageWithoutBlight","<b>{DAMAGE}</b>ko mina."
-"TileInfo/NoDamage","Lauki honetan minik gabe."
+"TileInfo/DamageWithBlight","<style=""Red"">Kiratsagatik</style>)
+<b>{DAMAGE}</b>ko mina ({BLIGHT}."
+"TileInfo/DamageWithoutBlight","<b>{DAMAGE}</b>(e)ko mina."
+"TileInfo/NoDamage","Minik ez lauki honetan."
 "TileInfo/Portal","<style=""h1"">Irteera Ataria</style>
 Gozo hartu atseden."
 "TileInfo/Stairs","<style=""h1"">Eskailerak</style>
@@ -379,9 +380,9 @@ Jaitsi eta egin aurre horrore gehiagori."
 "Trait/WardDescription","Lauki hau ezin dute etsaiek okupatu. Sartzean 3 <nobr><sprite=""upgrades"" name=""shield""><b>Ezkutu</b></nobr> jasoko dituzu eta <b>Babesa</b> kontsumitu."
 "Trait/Webweaver","Sare ehulea"
 "Trait/WebweaverDescription","Hil ostean heroiak 2 karta besterik ez ditu hartzen hurrengo txandan."
-"Tutorial/1_Welcome","Ongi etorri Pawnbarianera! Zernahiren gainetik pasa deskribapen bat ikusteko.
+"Tutorial/1_Welcome","Ongi etorri Pawnbarianera! Pasa elementu baten gainetik bere deskribapena ikusteko.
 
-Txanda bakoitzean, zure heroiarekin mugitzeko eta erasotzeko kartak jokatuko dituzu, ikusten den xake piezaren patroi berarekin.
+Txanda bakoitzean, zure heroiarekin mugitzeko eta erasotzeko kartak jokatuko dituzu, erakusten den xake piezaren patroi berarekin.
 
 Txanda bakoitzean 2 mugimendu dituzu, taularen azpian eskuineko aldean agertzen direnak. Normalean, ausazko 3 kartaren artean aukeratuko duzu zer jokatu.
 
@@ -411,9 +412,9 @@ Kartak jokatu arte edo solairu bat amaitu arte koroatzen dira. Ez baduzu berehal
 Erasotu etsaiei die haiengana mugituz, xakean piezak harrapatzean bezalaxe. Hil solairuko etsai guztiak aurrera egiteko."
 "Tutorial/4_Loot","Ikusi taularen goiko aldea. Poltsak oraintxe duzun <style=""Gold"">urrea</style> erakusten du, eta horren eskuinean dagoen edozer solairua irabaztean pilatu duzun saria da. <style=""Red"">Kristalak</style> min puntu bat sendatzen du. <style=""Gold"">Urrea</style> zure poltsara doa, berehala erabiliko duzu.
 
-Txanda bakoitzean eskuinerago dagoen saria galdu egingo da, beraz txanda gutxiagotan amaitzeak sari handiagoa lortzea esan nahi du.
+Txanda bakoitzean eskuinetik hasita lehen saria galdu egingo da, beraz txanda gutxiagotan amaitzeak sari handiagoa lortzea ekarriko du.
 
-Hiltzen duzun etsai bakoitzeko ere <style=""Gold"">urre</style> pieza bat irabazten duzu, beste etsai batek agerrarazi duenean salbu."
+Hiltzen duzun etsai bakoitzeko ere <style=""Gold"">urre</style> pieza bat irabaziko duzu, etsai hau beste etsai batek agerrarazi duenean salbu."
 "Tutorial/5_Shop","Ongi etorri dendara. Hemen <style=""Gold"">urrea</style> <b>bihotzetan</b> eta <b>hobekuntzetan</b> gasta dezakezu.
 
 Mugitu gauzen artean hauek erosteko. Dendan ez dago mugimendu-mugarik, eta mugimendu erosoa ahalbidetzen duten kartak dituzu beti.
@@ -462,5 +463,5 @@ Hau da guztia. Zorte on!"
 "Upgrade/Purify","Garbiketa"
 "Upgrade/PurifyDescription","Kendu 3 <style=""Red"">Kirats</style> puntu lurreratu zaren laukitik. (Aurkarien atributu guztiak eta gero aktibatzen da.)"
 "Upgrade/Shield","Ezkutua"
-"Upgrade/ShieldDescription","Kalte-puntu bat hartzen du txanda honetan."
+"Upgrade/ShieldDescription","Min-puntu bat hartzen du txanda honetan."
 "Upgrade/Splash","Inpaktua"
