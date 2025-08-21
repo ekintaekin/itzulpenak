@@ -101,9 +101,9 @@
 "EnemyType/Ward","Babesa"
 "EnemyType/WardFlavor","Eguzkipean egotea bezala."
 "Keys/HeroAction","Pertsonaiaren Ekintza"
-"Keys/SelectCard1","Aukeratu 1 Karta"
-"Keys/SelectCard2","Aukeratu 2 Karta"
-"Keys/SelectCard3","Aukeratu 3 Karta"
+"Keys/SelectCard1","Aukeratu 1. Karta"
+"Keys/SelectCard2","Aukeratu 2. Karta"
+"Keys/SelectCard3","Aukeratu 3. Karta"
 "Keys/EndTurn","Txanda Amaitu"
 "Gamepad/PreviousCard","Aurreko Karta aukeratu"
 "Gamepad/NextCard","Hurrengo Karta Aukeratu"
@@ -229,7 +229,7 @@ garaipenaren solairua"
 
 Txanda bakoitzean, zure heroiarekin mugitzeko eta erasotzeko kartak jokatuko dituzu, erakutsitako xake piezaren patroi berarekin.
 
-Txanda bakoitzean 2 mugimendu dituzu, taularen azpian eskuineko aldean agertzen direnak. Normalean, ausazko 3 kartaren artean aukeratuko duzu zer jokatu.
+Txanda bakoitzean 2 mugimendu dituzu, taularen azpian eskuineko aldean agertzen direnak. Normalean, ausazko 3 kartaren artean aukeratu beharko duzu zer jokatu.
 
 Mugitzeko, ukitu karta bat, eta, ondoren, taulan <style=""Gold"">markatuta</style> dagoen lauki bat.
 
@@ -237,15 +237,15 @@ Jolastu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
 "Piece/ChessBishop","Alfila"
 "Piece/ChessBishopDescription","Mugitu nahi adina lauki diagonalki eta erasotu."
 "Piece/ChessKing","Erregea"
-"Piece/ChessKingDescription","Mugitu nahi adina lauki kardinalki edo diagonalki."
+"Piece/ChessKingDescription","Mugitu nahi lauki bat kardinal edo diagonalki."
 "Piece/ChessKnight","Zaldia"
 "Piece/ChessKnightDescription","Egin salto eta erasotu lauki bat horizontal eta bertikalki eta beste bat diagonalki mugitzen."
 "Piece/ChessPawn","Peoia"
 "Piece/ChessPawnDescription","Mugitu lauki bat aurrera. edo erasotu lauki bat diagonalki aurrera egiten."
 "Piece/ChessQueen","Dama"
-"Piece/ChessQueenDescription","Mugitu nahi beste lauki kardinaki eta diagonalki eta erasotu."
+"Piece/ChessQueenDescription","Mugitu eta erasotu nahi adina lauki kardinal edo diagonalki."
 "Piece/ChessRook","Dorrea"
-"Piece/ChessRookDescription","Mugitu nahi beste lauki kardinalki eta erasotu."
+"Piece/ChessRookDescription","Mugitu eta erasotu nahi adina lauki kardinalki."
 "Piece/Demotes","Degradatu <b>{PIECE}</b>ra"
 "Piece/FairyBear","Hartza"
 "Piece/FairyBearDescription","Egin salto eta erasotu bi laukiko distantziara dagoen edozein lauki."
@@ -253,21 +253,21 @@ Jolastu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
 "Piece/FairyGhostDescription","Egin salto edozein lauki hutsetara."
 "Piece/FairyHawk","Belatza"
 "Piece/FairyHawkDescription","Egin salto eta erasotu kardinal edo diagonalki bi edo hiru laukiko distantziara dagoen edozein laukitara."
-"Piece/Promotes","<b>{PIECE}</b>ra koroatzen da"
+"Piece/Promotes","<b>{PIECE}</b> bezala koroatzen da"
 "Piece/ShogiBishop","Alfila"
 "Piece/ShogiBishopDescription","Mugitu nahi adina lauki diagonalki eta erasotu."
 "Piece/ShogiDragonHorse","Dragoi Zaldia"
-"Piece/ShogiDragonHorseDescription","Mugitu eta erasotu nahi beste lauki diagonalki, edo lauki bat kardinalki."
+"Piece/ShogiDragonHorseDescription","Mugitu eta erasotu nahi adina lauki diagonalki, edo lauki bat kardinalki."
 "Piece/ShogiDragonKing","Dragoi Erregea"
-"Piece/ShogiDragonKingDescription","Mugitu eta erasotu nahi beste lauki kardinalki, edo bat diagonalki."
+"Piece/ShogiDragonKingDescription","Mugitu eta erasotu nahi adina lauki kardinalki, edo bat diagonalki."
 "Piece/ShogiGoldGeneral","Urrezko Generala"
 "Piece/ShogiGoldGeneralDescription","Mugitu eta erasotu lauki bat aurrera, kardinalki edo diagonalki."
 "Piece/ShogiKing","Erregea"
-"Piece/ShogiKingDescription","Mugitu nahi adina lauki kardinalki edo diagonalki."
+"Piece/ShogiKingDescription","Mugitu nahi lauki bat kardinal edo diagonalki."
 "Piece/ShogiKnight","Zaldia"
 "Piece/ShogiKnightDescription","Mugitu eta erasotu lauki bat aurrera, gero diagonalean aurrera, bidean duzun edozer gauzaren gainetik salto eginez."
 "Piece/ShogiLance","Lantzaria"
-"Piece/ShogiLanceDescription","Mugitu edo erasotu nahi beste lauki aurrera egiten."
+"Piece/ShogiLanceDescription","Mugitu edo erasotu nahi adina lauki aurrera egiten."
 "Piece/ShogiPawn","Peoia"
 "Piece/ShogiPawnDescription","Mugitu eta erasotu lauki bat aurrera egiten."
 "Piece/ShogiPromotedKnight","Zaldi Koroatua"
@@ -279,7 +279,7 @@ Jolastu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
 "Piece/ShogiPromotedSilver","Zilar Koroatua"
 "Piece/ShogiPromotedSilverDescription","Mugitu eta erasotu lauki bat aurrera, kardinalki edo diagonalki."
 "Piece/ShogiRook","Dorrea"
-"Piece/ShogiRookDescription","Mugitu nahi beste lauki kardinalki eta erasotu."
+"Piece/ShogiRookDescription","Mugitu eta erasotu nahi adina lauki kardinalki."
 "Piece/ShogiSilverGeneral","Zilarrezko Jenerala"
 "Piece/ShogiSilverGeneralDescription","Mugitu edo erasotu kardinal edo diagonalki lauki bateko distantzian."
 "PlayerType/Cleric","Mistikoa"
@@ -405,11 +405,11 @@ Jokatu bi <sprite=""chess-pieces"" name=""pawn""><b>Peoiak</b> jarraitzeko."
 Erabili <nobr><sprite=""chess-pieces"" name=""knight""><b>Zaldia</b></nobr> eta egin salto goiko ilarara jarraitzeko."
 "Tutorial/3_Promotion","Zure <nobr><sprite=""chess-pieces"" name=""pawn""><b>Peoietako</b></nobr> bat <nobr><sprite=""chess-pieces"" name=""queen""><b>Dama</b></nobr> bezala koroatu berri duzu.
 
-Ikusi zure heroiaren deskribapena hau nola gertatzen den azalpen zehatza lortzeko. Koroatzeko aukeratutako karta ez da ausazkoa, beti da hautagai zuzenena.
+Ikusi zure heroiaren deskribapena hau zehazki nola gertatzen den ulertzeko. Koroatzeko aukeratutako karta ez da ausazkoa, beti da aukeratu daitezkeenetatik eskuinerago dagoena.
 
-Kartak jokatu arte edo solairu bat amaitu arte koroatzen dira. Ez baduzu berehala jokatzen, agian gero solairua amaitu aurretik jokatu dezakezu.
+Kartak jokatuak izan arte edo solairu bat amaitu arte koroatzen dira. Ez baduzu berehala jokatzen, agian gero solairua amaitu aurretik jokatu dezakezu.
 
-Erasotu etsaiei die haiengana mugituz, xakean piezak harrapatzean bezalaxe. Hil solairuko etsai guztiak aurrera egiteko."
+Erasotu etsaiak haiengana mugituz, xakean piezak harrapatzean bezalaxe. Hil solairuko etsai guztiak aurrera egiteko."
 "Tutorial/4_Loot","Ikusi taularen goiko aldea. Poltsak oraintxe duzun <style=""Gold"">urrea</style> erakusten du, eta horren eskuinean dagoen edozer solairua irabaztean pilatu duzun saria da. <style=""Red"">Kristalak</style> min puntu bat sendatzen du. <style=""Gold"">Urrea</style> zure poltsara doa, berehala erabiliko duzu.
 
 Txanda bakoitzean eskuinetik hasita lehen saria galdu egingo da, beraz txanda gutxiagotan amaitzeak sari handiagoa lortzea ekarriko du.
@@ -420,28 +420,28 @@ Hiltzen duzun etsai bakoitzeko ere <style=""Gold"">urre</style> pieza bat irabaz
 Mugitu gauzen artean hauek erosteko. Dendan ez dago mugimendu-mugarik, eta mugimendu erosoa ahalbidetzen duten kartak dituzu beti.
 
 Begiratu ingurura eta erosi <b>hobekuntza</b> bat jarraitzeko."
-"Tutorial/6_Upgrades","<b>Hobekuntzak</b> karta bat jolastean aktibatuko diren ahalmen gehiarriak dira. Karta batek hainbat hobekuntza jaso ditzake.
+"Tutorial/6_Upgrades","<b>Hobekuntzak</b> karta bat jolastean aktibatuko diren ahalmen gehigarriak dira. Karta batek hainbat hobekuntza jaso ditzake.
 
 Karta pilo txiki eta itxi bat jolasten duzu, zeina hutsa geratzen den bakoitzean nahastu egingo duzun. <b>Bihotzak</b> eta <b>hobekuntzak</b> lortzen zure heroia hobetzen duzu.
 
-Erosi nahi duzun beste edozer eta joan taulako goiko ilaran eskaileretan behera jarraitzeko."
+Erosi nahi duzuna eta joan taulako goiko ilaran dauden eskaileretan behera jarraitzeko."
 "Tutorial/7_Final","Zure azken proba!
 
-Jokoko etsai gehienek trebetasunak dituzte, eta horregatik zure jokaldiak prestatu beharko dituzu; beraz, ziurtatu haien deskribapenak irakurtzen dituzula.
+Jokoko etsai gehienek trebetasunak dituzte, eta horregatik zure jokaldiak prestatu beharko dituzu; beraz, adi irakurri haien deskribapenak.
 
-Zure txanda alde batera utz dezakezu zure karten eskuinaldean daukazun botoiarekin."
+Zure txanda pasa zure karten eskuinaldean daukazun botoiarekin."
 "Tutorial/7_FinalGamepad","Zure azken proba!
 
-Jokoko etsai gehienek inguruan estrategizatzeko gaitasuna dute, beraz, ziurtatu haien deskribapenak irakurri izana.
+Jokoko etsai gehienek ahalmen bereziak dituzte, beraz adi irakurri deskribapenak hauei aurre egiteko moduak prestatzeko.
 
-Txandak saltatu ditzakezu. Hautatu aukera <sprite=""gamepad"" name=""N"">rekin eta gero konfirmatu <sprite=""gamepad"" name=""S"">rekin.
+Txandak pasa ditzakezu. Hautatu aukera <sprite=""gamepad"" name=""N"">rekin eta gero konfirmatu <sprite=""gamepad"" name=""S"">rekin.
 
 Desautatu guztia<sprite=""gamepad"" name=""E"">rekin.
 
 Aurrerago ekintza berezia duen pertsonaia bat desblokeatuko duzu. Hau aukeratzeko sakatu <sprite=""gamepad"" name=""W"">."
 "Tutorial/8_Notches","Azken aholku batzuk.
 
-Lauki baten ertzetako koskek min kantitatea adierazten dute. 1, 2 edo 3 hozkak irudikatzen duzuna esan nahi dute. Garezur batek 4 min edo gehiago esan nahi du, baina ez da beti hilgarria.
+Lauki baten ertzetako koskek min kantitatea adierazten dute. 1, 2 edo 3 koskak irudikatzen duzuna esan nahi dute. Garezur batek 4 min puntu edo gehiago esan nahi du, baina ez da beti hilgarria.
 
 Pasa sagua edozein etsairen gainetik bere eraso patroia erakusteko (<b>laukiak</b> gorri bihurtzen dira).
 
