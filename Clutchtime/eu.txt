@@ -47,7 +47,7 @@ TRANSLATED:Gehitu [card:timeout] zure eskura
 CONTEXT:
 
 ENGLISH:Add a [card:cornerThree] to your hand.
-TRANSLATED:Gehitu [card:cornerThree] bat zure eskura.
+TRANSLATED:Gehitu [card:cornerThree] zure eskura.
 CONTEXT:
 
 ENGLISH:Add a [card:hookShot] to your hand.
@@ -555,7 +555,7 @@ TRANSLATED:Bihurtu zure eskuko ausazko {Shot:jaurtiketa} {unstoppable:geldiezina
 CONTEXT:
 
 ENGLISH:Make all your [card:rebound] cards {instant:Instant} until played.
-TRANSLATED:Bihurtu zure [card:rebound] guztiak {instant:berehalako} jokatzen dituzun arte.
+TRANSLATED:Bihurtu zure [card:rebound]k {instant:berehalako} jokatzen dituzun arte.
 CONTEXT:
 
 ENGLISH:Make instant
@@ -615,7 +615,7 @@ TRANSLATED:Hurrengo {Assist:asistentzia}k zero kostua du.
 CONTEXT:
 
 ENGLISH:Next {Shot:Shot} costs zero
-TRANSLATED:Hurrengo {Shot:jaurtiketa}ren kostua zero da
+TRANSLATED:Hurrengo {Shot:jaurtiketa} zero kostukoa da
 CONTEXT:
 
 ENGLISH:Nintendo Switch Pro Controller
@@ -1159,7 +1159,7 @@ TRANSLATED:Zure eskuko [card:freeThrow] kartak +1 kostua du txanda honetan.
 CONTEXT:
 
 ENGLISH:{boost:Boost} and {removed:Remove}
-TRANSLATED:{boost:Hobetu} eta{removed:kendu}
+TRANSLATED:{boost:Hobetu} eta {removed:kendu}
 CONTEXT:
 
 ENGLISH:{boost:Boost} every [card:timeout] in your hand
@@ -1243,7 +1243,7 @@ TRANSLATED:{leverage:Sakrifikatu} {Team:talde} karta bat
 CONTEXT:
 
 ENGLISH:{plan:Plan} a [card:rebound]
-TRANSLATED:{plan:Planifikatu} [card:rebound] bat
+TRANSLATED:{plan:Planifikatu} [card:rebound]
 CONTEXT:
 
 ENGLISH:{plan:Plan} a [card:technicalFreeThrow] for each card in opponent {stack:stack}.
@@ -1263,7 +1263,7 @@ TRANSLATED:{pull:Atera} [card:rebound] karta bat.
 CONTEXT:
 
 ENGLISH:{pull:Pull} a {Shot:Shot} and an {Assist:Assist} and reduce their cost by 1 this turn
-TRANSLATED:{pull:Atera} a {Shot:jaurtiketa} eta {Assist:asistentzia} bana eta gutxitu hauen kostua puntu batean txanda honetarako
+TRANSLATED:{pull:Atera} {Shot:jaurtiketa} eta {Assist:asistentzia} bana eta gutxitu hauen kostua puntu batean txanda honetarako
 CONTEXT:
 
 ENGLISH:{removed:Remove} all {Assist:Assists} from your {stack:stack}.
@@ -2311,7 +2311,7 @@ TRANSLATED:Ikono estiloa
 CONTEXT:for game controller icons like XBox
 
 ENGLISH:If it scores, add [card:onFire] into hand.
-TRANSLATED:Saskiratzen badu, gehitu [card:onFire] eskura.
+TRANSLATED:Puntuatzen badu, gehitu [card:onFire] eskura.
 CONTEXT:if the Shot scores points, add a card into player hand
 
 ENGLISH:If the game is tight
@@ -2671,7 +2671,7 @@ TRANSLATED:Zutoin baxua
 CONTEXT:take position in the paint, near the basket
 
 ENGLISH:Powered by
-TRANSLATED:Jokoaren bultzatzailea
+TRANSLATED:Powered by
 CONTEXT:Game is powered by a game engine
 
 ENGLISH:Pre game
@@ -3350,7 +3350,7 @@ CONTEXT:
 
 ENGLISH SINGLE:+# cost this turn
 ENGLISH PLURAL:+# cost this turn
-TRANSLATED 0:+# kostua txanda honetan
+TRANSLATED 0:Kostua +# txanda honetan
 TRANSLATED 1:+# kostua txanda honetan
 TRANSLATED 2:
 TRANSLATED 3:
@@ -3570,8 +3570,8 @@ CONTEXT:
 
 ENGLISH SINGLE:If your team is trailing: Get [ENERGY] {stamina:Stamina}[gfx:NRG], draw # card and increase cost by 1 this turn
 ENGLISH PLURAL:If your team is trailing: Get [ENERGY] {stamina:Stamina}[gfx:NRG], draw # cards and increase cost by 1 this turn
-TRANSLATED 0:Zure taldea atzetik badoa: lortu {stamina:energia}[gfx:NRG] [ENERGY], hartu karta # eta handitu kostua puntu batetan txanda honetan.
-TRANSLATED 1:Zure taldea atzetik badoa: lortu [ENERGY] {stamina:energia}[gfx:NRG], hartu # karta eta handitu kostua puntu batetan txanda honetan.
+TRANSLATED 0:Zure taldea atzetik badoa lortu {stamina:energia}[gfx:NRG] [ENERGY], hartu karta # eta handitu kostua puntu batetan txanda honetan.
+TRANSLATED 1:Zure taldea atzetik badoa lortu [ENERGY] {stamina:energia}[gfx:NRG], hartu # karta eta handitu kostua puntu batetan txanda honetan.
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
@@ -3680,7 +3680,7 @@ CONTEXT:
 
 ENGLISH SINGLE:Whenever you draw a {Hindrance:Hindrance}, draw # card.
 ENGLISH PLURAL:Whenever you draw a {Hindrance:Hindrance}, draw # cards.
-TRANSLATED 0:{Hindrance:Oztopo} bat hartzen duzunero, hartu karta #.
+TRANSLATED 0:{Hindrance:Oztopo} bat hartzen duzunero, karta # hartu.
 TRANSLATED 1:{Hindrance:Oztopo} bat hartzen duzunero, hartu # karta.
 TRANSLATED 2:
 TRANSLATED 3:
@@ -3790,7 +3790,7 @@ CONTEXT:
 
 ENGLISH SINGLE:{prepare:Prepare} # [card:openThree]
 ENGLISH PLURAL:{prepare:Prepare} # [card:openThree] cards
-TRANSLATED 0:{prepare:Prestatu} # [card:openThree]
+TRANSLATED 0:{prepare:Prestatu} [card:openThree] #
 TRANSLATED 1:{prepare:Prestatu} # [card:openThree] karta
 TRANSLATED 2:
 TRANSLATED 3:
@@ -3823,8 +3823,8 @@ CONTEXT:
 
 ENGLISH SINGLE:{removed:Remove} up to # card from your draw pile.
 ENGLISH PLURAL:{removed:Remove} up to # cards from your draw pile.
-TRANSLATED 0:{removed:Kendu} karta #erarte zure hartzeko pilotik.
-TRANSLATED 1:{removed:Kendu} # kartararte zure hartzeko pilotik.
+TRANSLATED 0:{removed:Kendu} karta #era arte zure hartzeko pilotik.
+TRANSLATED 1:{removed:Kendu} # kartara arte zure hartzeko pilotik.
 TRANSLATED 2:
 TRANSLATED 3:
 TRANSLATED 4:
