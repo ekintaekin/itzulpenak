@@ -37,7 +37,7 @@
 "Dungeon/Void","Santutegi Lohia"
 "Dungeon/VoidFlavor","Tenplu beldurgarri honek Izurridun Amildegira doan atari bat du, eta noizean behin mota guztietako izugarrikeria ultzeradun, tentakular eta puntadunak isurtzen ditu handik."
 "EnemyType/BlightHeart","Bihotz Nazkagarria"
-"EnemyType/BlightHeartFlavor","Izurria mundua jabetzea du helburu bakartzat."
+"EnemyType/BlightHeartFlavor","Izurria munduaz jabetzea du helburu bakartzat."
 "EnemyType/BlightImp","Izurridun Deabrua"
 "EnemyType/BlightImpFlavor","Sinetsi dezakezu pertsona batzuentzat maitagarriak diruditela?"
 "EnemyType/BlightMatron","Izurridun Emagina"
@@ -53,7 +53,7 @@
 "EnemyType/CapybearHorned","Kapihartz Adarduna"
 "EnemyType/CapybearHornedFlavor","Taldearen abangoardia. Adar horiek ez dira erakusteko soilik."
 "EnemyType/CoilGolem","Haril Golema"
-"EnemyType/CoilGolemFlavor","Min gehien egiten duen lekuan kondentsatzen du airearen indarra"
+"EnemyType/CoilGolemFlavor","Min gehien egiten duen lekuan kondentsatzen du airearen indarra."
 "EnemyType/DemonGolem","Deabruzko Golema"
 "EnemyType/DemonGolemFlavor","Aldi berean ezagutza debekatuaren adar gehiegitan barneratu zen ingeniari ohi baten lana."
 "EnemyType/GauntletGate","Erronkaren Atea"
@@ -79,7 +79,7 @@
 "EnemyType/GoblinWarrior","Goblin Gerlaria"
 "EnemyType/GoblinWarriorFlavor","Eskarmentu handiko goblin honek landu gabeko armadurak jantzi ditzake abiadura galdu gabe."
 "EnemyType/GuardGolem","Golem Zaindaria"
-"EnemyType/GuardGolemFlavor","Eternalki Gotorlekuko gelak zaintzen."
+"EnemyType/GuardGolemFlavor","Gotorlekuko gelak zaintzen betiko."
 "EnemyType/KingGolem","Golem Erregea"
 "EnemyType/KingGolemFlavor","Jatorrizko biztanleak desagertu zirenean, Gotorlekuak berak sortu zuen Erregea."
 "EnemyType/KnightGolem","Golem Zaldia"
@@ -93,7 +93,7 @@
 "EnemyType/SparkImp","Txinparta diabolikoa"
 "EnemyType/SparkImpFlavor","Hauen jatorria ez dago argi, baina jakina da Golemak gertu daudenean beti agertzen direla."
 "EnemyType/SpewerGolem","Golem Okaztatzailea"
-"EnemyType/SpewerGolemFlavor","Beharbada Izurriari segurtasunez eusteko erabiltzen zen hasieran, ezinbestean kaltetuta amaitu zuen arte."
+"EnemyType/SpewerGolemFlavor","Beharbada Izurriari eusteko biltegi segurua bezala erabiltzen zen hasieran, ezinbestean kaltetuta amaitu zuen arte."
 "EnemyType/Spidertoad","Armiarma Zapoa"
 "EnemyType/SpidertoadFlavor","Ez da bereziki erasokorra... Beste kontinente batean zauden bitartean behintzat."
 "EnemyType/VoidImp","Hutsuneko Deabrutxoa"
@@ -440,13 +440,13 @@ Desautatu guztia<sprite=""gamepad"" name=""E"">rekin.
 Aurrerago ekintza berezia duen pertsonaia bat desblokeatuko duzu. Hau aukeratzeko sakatu <sprite=""gamepad"" name=""W"">."
 "Tutorial/8_Notches","Azken aholku batzuk.
 
-Lauki baten ertzetako koskek min kantitatea adierazten dute. 1, 2 edo 3 koskak irudikatzen duzuna esan nahi dute. Garezur batek 4 min puntu edo gehiago esan nahi du, baina ez da beti hilgarria.
+Lauki baten ertzetako koskek min kantitatea adierazten dute. 1, 2 edo 3 koskak espero duzuna esan nahi dute. Garezur batek 4 min puntu edo gehiago esan nahi du, baina ez da beti hilgarria.
 
-Pasa sagua edozein etsairen gainetik bere eraso patroia erakusteko (<b>laukiak</b> gorri bihurtzen dira).
+Pasa sagua edozein etsairen gainetik bere eraso patroia erakusteko (<b>laukiak</b> gorri bihurtuko dira).
 
 Pasa sagua edozein laukiren gainetik hau erasotzen dauden etsaiak erakusteko (<b>etsaiak</b> gorri bihurtuko dira).
 
-Etsai batzuk <style=""Red"">Izurria</style> uzten dute taulan. Solairua amaitu arte pilatu daitekeen eta laukian geratuko den min mota da.
+Etsai batzuk <style=""Red"">Izurria</style> uzten dute taulan. Izurria solairua amaitu arte pilatu daitekeen eta laukian geratuko den min mota da.
 
 Hau da guztia. Zorte on!"
 "Tutorial/AvoidedDeath","Tutorialean hilezkorra zara, baina hilda egongo zinateke dagoeneko. Saiatu ahal bezain ondo jokatzen arriskutik kanpo dauden laukietan amaitzeko."
@@ -454,11 +454,11 @@ Hau da guztia. Zorte on!"
 "Upgrade/Cantrip","Sorginkeria"
 "Upgrade/CantripDescription","Ekintza bat lortu eta karta bat hartzen duzu."
 "Upgrade/DiagonalSplash","Inpaktu Diagonala"
-"Upgrade/DiagonalSplashDescription","Mugitu ondoren diagonalean dauden laukiei erasotzen die."
+"Upgrade/DiagonalSplashDescription","Mugitu ondoren diagonalean dauden laukiak erasotzen ditu."
 "Upgrade/Life","Bihotza"
 "Upgrade/LifeDescription","Lortu bihotz bat, handitu <b>Bizitzen</b> gehienekoa eta atzeratu zure desagerpena."
 "Upgrade/OrthogonalSplash","Inpaktu Kardinala"
-"Upgrade/OrthogonalSplashDescription","Mugitu ondoren, aldameneko lauki horizontalei eta bertikalei erasotzen die."
+"Upgrade/OrthogonalSplashDescription","Mugitu ondoren, aldameneko lauki horizontal eta bertikalak erasotzen ditu."
 "Upgrade/Purify","Garbiketa"
 "Upgrade/PurifyDescription","Kendu 3 <style=""Red"">Izurri</style> puntu lurreratu zaren laukitik. (Aurkarien atributu guztiak eta gero aktibatzen da.)"
 "Upgrade/Shield","Ezkutua"
