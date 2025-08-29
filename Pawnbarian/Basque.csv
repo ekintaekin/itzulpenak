@@ -134,9 +134,9 @@ Kargak solairua amaitzean galtzen dira."
 
 0+: <sprite=""upgrades"" name=""shield""> <b>Ezkutua</b> eta koroatu karta bat.
 
-1+: <sprite=""upgrades"" name=""splash-diagonal""> <b>Zipriztin Diagonala</b>.
+1+: <sprite=""upgrades"" name=""splash-diagonal""> <b>Inpaktu Diagonala</b>.
 
-2+: <sprite=""upgrades"" name=""splash-orthogonal""> <b>Zipriztin Kardinala</b>.
+2+: <sprite=""upgrades"" name=""splash-orthogonal""> <b>Inpaktu Kardinala</b>.
 
 3+: <sprite=""upgrades"" name=""cantrip""> <b>Sorginkeria</b>
 (3 karta baina gutxiago badituzu, hartu karta bat)
@@ -303,7 +303,7 @@ Aktibatu<nobr><sprite=""upgrades"" name=""cantrip""> <b>sorginkeriak</b></nobr> 
 "PlayerType/NomadRules","Zuzenean etsai bat helburu duten erasoak <b>urrunekoak</b> dira."
 "PlayerType/Pawnbarian","Pawnbariana"
 "PlayerType/PawnbarianFlavor","Iparraldeko Xakearen Lurretako borrokalari adoretsua, uneoro erronka berri baten bila."
-"PlayerType/PawnbarianRules","Koroatu azken ilarara mugitzen zaren aldiro edo 3 <nobr><sprite=""chess-pieces"" name=""pawn""><b>Peoi</b></nobr> dituzunean eskuan."
+"PlayerType/PawnbarianRules","Koroatu azken ilarara mugitzen zaren aldi bakoitzean edo 3 <nobr><sprite=""chess-pieces"" name=""pawn""><b>Peoi</b></nobr> dituzunean eskuan."
 "PlayerType/Shogun","Shoguna"
 "PlayerType/ShogunFlavor","Soldadu beldurgarri honek Xakearen Lurretan guztiz ezezaguna den arte martzial bat erabiltzen du."
 "PlayerType/ShogunRules","Koroatu karta bat txanda bakoitzeko zure lehen mugimenduan.
